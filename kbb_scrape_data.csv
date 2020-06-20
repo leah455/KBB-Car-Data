@@ -1,0 +1,1722 @@
+,car,starting_price,combined_mpg,expert_rating,consumer_rating
+0,Certified 2015 Honda CR‑V SUV,"$14,378",28 MPG,4.9 ,4.1 
+1,Certified 2017 Honda CR‑V SUV,"$20,136",27 MPG,4.9 ,4.2 
+2,Certified 2019 Toyota RAV4 SUV,"$24,205",30 MPG,4.9 ,3.6 
+3,Certified 2019 Toyota RAV4 Hybrid SUV,"$27,046",39 MPG,4.9 ,3.6 
+4,New 2020 Honda Accord Sedan,"$24,975",33 MPG,4.8 ,4.4 
+5,New 2020 Honda CR‑V SUV,"$26,170",30 MPG,4.8 ,4.2 
+6,New 2020 Honda Accord Hybrid Sedan,"$26,575",48 MPG,4.8 ,4.1 
+7,New 2020 Toyota RAV4 SUV,"$27,070",30 MPG,4.8 ,3.6 
+8,New 2020 Toyota RAV4 Hybrid SUV,"$29,470",40 MPG,4.8 ,3.6 
+9,New 2020 Kia Telluride SUV,"$33,060",23 MPG,4.8 ,4.5 
+10,New 2020 Lexus ES Sedan,"$40,925",26 MPG,4.8 ,3.6 
+11,New 2020 Mercedes‑Benz GLE SUV,"$54,695",22 MPG,4.8 ,3.2 
+12,New 2019 Audi A5 Coupe,"$45,195",27 MPG,4.8 ,4.7 
+13,New 2019 Audi S5 Coupe,"$53,395",24 MPG,4.8 ,5 
+14,New 2019 Audi Q8 SUV,"$68,395",19 MPG,4.8 ,5 
+15,New 2019 Audi RS 5 Sedan,"$75,195",20 MPG,4.8 ,5 
+16,Certified 2015 Honda Fit Hatchback,"$9,793",32 MPG,4.8 ,4.5 
+17,Certified 2016 Honda Civic Coupe,"$13,380",34 MPG,4.8 ,4.4 
+18,Certified 2016 MAZDA MX‑5 Miata Convertible,"$15,435",30 MPG,4.8 ,4.9 
+19,Certified 2016 Honda CR‑V SUV,"$16,722",27 MPG,4.8 ,4.1 
+20,Certified 2018 Honda Accord Sedan,"$19,563",33 MPG,4.8 ,4.4 
+21,Certified 2016 Honda Pilot SUV,"$19,600",21 MPG,4.8 ,3.4 
+22,Certified 2016 Mercedes‑Benz C‑Class Sedan,"$20,673",28 MPG,4.8 ,4.3 
+23,Certified 2018 Honda Accord Hybrid Sedan,"$20,996",47 MPG,4.8 ,4.1 
+24,Certified 2018 Honda CR‑V SUV,"$22,273",27 MPG,4.8 ,4.2 
+25,Certified 2017 Chevrolet Bolt EV Hatchback,"$22,700",119 MPGe,4.8 ,4.8 
+26,Certified 2016 Acura MDX SUV,"$23,350",22 MPG,4.8 ,4.1 
+27,Certified 2019 Honda Accord Hybrid Sedan,"$23,533",48 MPG,4.8 ,4.1 
+28,Certified 2019 Honda CR‑V SUV,"$24,470",27 MPG,4.8 ,4.2 
+29,Certified 2016 Mercedes‑Benz GLC SUV,"$25,667",24 MPG,4.8 ,4 
+30,Certified 2017 Mercedes‑Benz E‑Class Coupe,"$27,976",23 MPG,4.8 ,4.5 
+31,Certified 2018 Audi A5 Coupe,"$30,466",27 MPG,4.8 ,4.7 
+32,Certified 2017 Audi Q7 SUV,"$32,817",22 MPG,4.8 ,4.5 
+33,Certified 2018 Audi Q5 SUV,"$32,963",25 MPG,4.8 ,4.7 
+34,Certified 2018 Ford Expedition MAX SUV,"$33,900",18 MPG,4.8 ,4.2 
+35,Certified 2019 Lexus ES Sedan,"$37,152",26 MPG,4.8 ,3.6 
+36,Certified 2018 Ford Expedition SUV,"$37,200",19 MPG,4.8 ,4.2 
+37,Certified 2018 Audi SQ5 SUV,"$44,834",21 MPG,4.8 ,4.7 
+38,Certified 2019 Chevrolet Corvette Coupe,"$47,477",18 MPG,4.8 ,4.9 
+39,Certified 2017 Mercedes‑Benz Mercedes‑AMG E‑Class Sedan,"$47,729",21 MPG,4.8 ,4.5 
+40,Certified 2019 BMW X5 SUV,"$51,750",22 MPG,4.8 ,4.7 
+41,Certified 2018 Audi RS 5 Coupe,"$60,850",21 MPG,4.8 ,5 
+42,New 2020 Toyota Prius Prime Hatchback,"$28,855",54 MPG | 133 MPGe,4.7 ,4.7 
+43,New 2020 Honda Pilot SUV,"$32,770",22 MPG,4.7 ,3.4 
+44,New 2020 Hyundai Palisade SUV,"$33,115",22 MPG,4.7 ,4.4 
+45,New 2020 Volvo XC40 SUV,"$34,695",27 MPG,4.7 ,5 
+46,New 2020 Audi Q5 SUV,"$44,295",24 MPG,4.7 ,4.7 
+47,New 2020 Ford Expedition SUV,"$54,205",19 MPG,4.7 ,4.2 
+48,New 2020 Mercedes‑Benz E‑Class Sedan,"$55,045",26 MPG,4.7 ,4.5 
+49,New 2020 Ford Expedition MAX SUV,"$57,230",19 MPG,4.7 ,4.2 
+50,New 2019 Honda Clarity Electric Sedan,"$37,575",114 MPGe,4.7 ,4.4 
+51,New 2019 Mercedes‑Benz GLC Coupe SUV,"$48,295",23 MPG,4.7 ,4 
+52,New 2019 Audi S4 Sedan,"$51,195",24 MPG,4.7 ,5 
+53,New 2019 Audi Q7 SUV,"$54,545",21 MPG,4.7 ,4.5 
+54,New 2019 Mercedes‑Benz Mercedes‑AMG E‑Class Sedan,"$73,475",21 MPG,4.7 ,4.5 
+55,Certified 2016 Honda Fit Hatchback,"$12,447",35 MPG,4.7 ,4.5 
+56,Certified 2015 Honda Accord Sedan,"$12,764",27 MPG,4.7 ,4.4 
+57,Certified 2015 MAZDA CX‑5 SUV,"$12,817",26 MPG,4.7 ,4.6 
+58,Certified 2017 Honda Fit Hatchback,"$13,284",32 MPG,4.7 ,4.5 
+59,Certified 2017 Honda Civic Coupe,"$13,868",32 MPG,4.7 ,4.4 
+60,Certified 2016 MAZDA CX‑5 SUV,"$14,006",26 MPG,4.7 ,4.6 
+61,Certified 2015 Honda Odyssey Van/Minivan,"$14,618",22 MPG,4.7 ,4.4 
+62,Certified 2016 Honda Accord Sedan,"$14,635",27 MPG,4.7 ,4.4 
+63,Certified 2016 Honda HR‑V SUV,"$14,749",28 MPG,4.7 ,4.3 
+64,Certified 2018 Honda Civic Coupe,"$16,009",32 MPG,4.7 ,4.4 
+65,Certified 2015 Honda Accord Hybrid Sedan,"$16,225",47 MPG,4.7 ,4.8 
+66,Certified 2017 Honda HR‑V SUV,"$16,300",28 MPG,4.7 ,4.3 
+67,Certified 2017 MAZDA CX‑5 SUV,"$16,786",26 MPG,4.7 ,4.5 
+68,Certified 2017 MAZDA CX‑5 SUV,"$16,786",26 MPG,4.7 ,4.5 
+69,Certified 2018 Toyota Camry Sedan,"$17,557",34 MPG,4.7 ,3.9 
+70,Certified 2016 Scion FR‑S Coupe,"$17,726",25 MPG,4.7 ,4.7 
+71,Certified 2017 MAZDA MX‑5 Miata Convertible,"$17,860",29 MPG,4.7 ,4.9 
+72,Certified 2016 Subaru BRZ Coupe,"$17,972",25 MPG,4.7 ,4.8 
+73,Certified 2017 Ford Mustang Convertible,"$18,355",21 MPG,4.7 ,4.7 
+74,Certified 2018 MAZDA CX‑5 SUV,"$19,103",26 MPG,4.7 ,4.5 
+75,Certified 2016 Audi A3 Sportback e‑tron Wagon,"$20,226",35 MPG | 83 MPGe,4.7 ,4.8 
+76,Certified 2017 MAZDA MX‑5 Miata RF Convertible,"$20,292",29 MPG,4.7 ,4.9 
+77,Certified 2016 Mercedes‑Benz CLA Sedan,"$20,296",30 MPG,4.7 ,4.6 
+78,Certified 2017 Audi A3 Sedan,"$20,625",27 MPG,4.7 ,4.7 
+79,Certified 2019 Hyundai Santa Fe SUV,"$20,993",23 MPG,4.7 ,4.9 
+80,Certified 2018 MAZDA MX‑5 Miata Convertible,"$21,220",29 MPG,4.7 ,4.9 
+81,Certified 2019 MAZDA CX‑5 SUV,"$21,230",26 MPG,4.7 ,4.5 
+82,Certified 2018 Subaru Crosstrek SUV,"$21,350",25 MPG,4.7 ,4.4 
+83,Certified 2019 Honda Accord Sedan,"$21,667",33 MPG,4.7 ,4.4 
+84,Certified 2017 Toyota Prius Prime Hatchback,"$22,921",54 MPG | 133 MPGe,4.7 ,4.7 
+85,Certified 2017 Honda Pilot SUV,"$23,200",21 MPG,4.7 ,3.4 
+86,Certified 2018 Honda Odyssey Van/Minivan,"$23,305",22 MPG,4.7 ,3.7 
+87,Certified 2018 MAZDA MX‑5 Miata RF Convertible,"$23,350",29 MPG,4.7 ,4.9 
+88,Certified 2018 Toyota Camry Hybrid Sedan,"$23,352",52 MPG,4.7 ,3.9 
+89,Certified 2018 Honda Clarity Plug‑in Hybrid Sedan,"$23,483",42 MPG | 110 MPGe,4.7 ,4.4 
+90,Certified 2018 Chevrolet Bolt EV Hatchback,"$23,900",119 MPGe,4.7 ,4.8 
+91,Certified 2016 Audi S3 Sedan,"$23,946",26 MPG,4.7 ,4.5 
+92,Certified 2019 Chevrolet Bolt EV Hatchback,"$24,500",119 MPGe,4.7 ,4.8 
+93,Used 2016 BMW X5 SUV,"$24,550",21 MPG,4.7 ,4.4 
+94,Certified 2017 Audi A3 Sportback e‑tron Wagon,"$25,240",34 MPG | 83 MPGe,4.7 ,4.8 
+95,Certified 2018 Honda Pilot SUV,"$25,350",21 MPG,4.7 ,3.4 
+96,Certified 2018 Audi A4 Sedan,"$25,614",31 MPG,4.7 ,4.6 
+97,Certified 2018 BMW X2 SUV,"$25,840",26 MPG,4.7 ,5 
+98,Certified 2019 Honda Clarity Plug‑in Hybrid Sedan,"$25,901",42 MPG | 110 MPGe,4.7 ,4.4 
+99,Certified 2018 Toyota Prius Prime Hatchback,"$26,038",54 MPG | 133 MPGe,4.7 ,4.7 
+100,Certified 2017 Acura MDX SUV,"$26,750",23 MPG,4.7 ,4.1 
+101,Certified 2016 Volvo XC90 SUV,"$26,800",22 MPG,4.7 ,3.9 
+102,Certified 2019 Toyota Prius Prime Hatchback,"$28,750",54 MPG | 133 MPGe,4.7 ,4.7 
+103,Certified 2016 Chevrolet Tahoe SUV,"$28,828",18 MPG,4.7 ,4 
+104,Certified 2017 Mercedes‑Benz GLC SUV,"$28,976",24 MPG,4.7 ,4 
+105,Certified 2017 Honda Civic Type R Hatchback,"$29,044",25 MPG,4.7 ,5 
+106,Certified 2016 Lexus RX SUV,"$29,177",22 MPG,4.7 ,4 
+107,Certified 2017 Honda Civic Type R Hatchback,"$29,044",25 MPG,4.7 ,5 
+108,Certified 2017 Audi S3 Sedan,"$29,412",24 MPG,4.7 ,4.5 
+109,Certified 2019 Honda Pilot SUV,"$30,000",21 MPG,4.7 ,3.4 
+110,Certified 2017 BMW 5 Series Sedan,"$30,058",22 MPG,4.7 ,5 
+111,Certified 2018 Mercedes‑Benz GLC SUV,"$30,752",24 MPG,4.7 ,4 
+112,Certified 2017 Acura MDX Sport Hybrid SUV,"$30,950",27 MPG,4.7 ,4.1 
+113,Certified 2018 Acura MDX SUV,"$31,050",22 MPG,4.7 ,4.1 
+114,Certified 2019 Audi A4 Sedan,"$31,302",27 MPG,4.7 ,4.5 
+115,Certified 2016 Audi A7 Sedan,"$31,307",24 MPG,4.7 ,4.7 
+116,Used 2019 Genesis G70 Sedan,"$31,600",22 MPG,4.7 ,5 
+117,Certified 2018 Honda Civic Type R Hatchback,"$31,826",25 MPG,4.7 ,5 
+118,Certified 2016 Mercedes‑Benz Mercedes‑AMG CLA Sedan,"$33,219",26 MPG,4.7 ,4.6 
+119,Certified 2019 Honda Civic Type R Hatchback,"$35,652",25 MPG,4.7 ,5 
+120,Certified 2019 Volvo XC40 SUV,"$36,024",27 MPG,4.7 ,5 
+121,Certified 2018 Audi Q7 SUV,"$36,500",21 MPG,4.7 ,4.5 
+122,Certified 2018 Acura MDX Sport Hybrid SUV,"$37,150",27 MPG,4.7 ,4.1 
+123,Certified 2017 Audi A7 Sedan,"$37,196",24 MPG,4.7 ,4.7 
+124,Certified 2018 Mercedes‑Benz E‑Class Sedan,"$37,548",24 MPG,4.7 ,4.5 
+125,Certified 2017 Mercedes‑Benz GLC Coupe SUV,"$37,840",24 MPG,4.7 ,4 
+126,Certified 2018 Audi S4 Sedan,"$40,450",24 MPG,4.7 ,5 
+127,Certified 2016 Audi S7 Sedan,"$41,400",20 MPG,4.7 ,4.9 
+128,Certified 2017 Mercedes‑Benz Mercedes‑AMG GLC SUV,"$41,520",20 MPG,4.7 ,4 
+129,Certified 2018 Mercedes‑Benz GLC Coupe SUV,"$41,785",24 MPG,4.7 ,4 
+130,Used 2019 Tesla Model 3 Sedan,"$42,549",130 MPGe,4.7 ,4.8 
+131,Certified 2017 Porsche 718 Cayman Coupe,"$45,410",24 MPG,4.7 ,4.9 
+132,Certified 2017 Mercedes‑Benz Mercedes‑AMG GLC Coupe SUV,"$46,101",20 MPG,4.7 ,4 
+133,Certified 2018 Porsche 718 Cayman Coupe,"$47,032",24 MPG,4.7 ,4.9 
+134,Certified 2017 Porsche 718 Boxster Convertible,"$47,146",24 MPG,4.7 ,5 
+135,Certified 2019 Audi A6 Sedan,"$47,866",25 MPG,4.7 ,5 
+136,Certified 2017 Audi S7 Sedan,"$48,765",21 MPG,4.7 ,4.9 
+137,Certified 2018 Porsche 718 Boxster Convertible,"$50,150",24 MPG,4.7 ,5 
+138,Certified 2018 Mercedes‑Benz Mercedes‑AMG GLC Coupe SUV,"$51,496",20 MPG,4.7 ,4 
+139,Certified 2018 Mercedes‑Benz Mercedes‑AMG E‑Class Sedan,"$57,150",21 MPG,4.7 ,4.5 
+140,Certified 2019 Mercedes‑Benz Mercedes‑AMG GLC Coupe SUV,"$59,924",21 MPG,4.7 ,4 
+141,New 2020 Kia Soul Wagon,"$18,610",27 MPG,4.6 ,5 
+142,New 2020 Toyota Corolla Sedan,"$20,555",33 MPG,4.6 ,3.9 
+143,New 2020 Honda Civic Sedan,"$20,805",29 MPG,4.6 ,4.4 
+144,New 2020 Honda HR‑V SUV,"$21,940",30 MPG,4.6 ,4.3 
+145,New 2020 Subaru Crosstrek SUV,"$23,155",25 MPG,4.6 ,4.4 
+146,New 2020 Toyota Corolla Hybrid Sedan,"$24,055",52 MPG,4.6 ,3.9 
+147,New 2020 Hyundai Sonata Sedan,"$24,575",32 MPG,4.6 ,3.8 
+148,New 2020 Toyota Camry Sedan,"$25,380",34 MPG,4.6 ,3.9 
+149,New 2020 Subaru Forester SUV,"$25,505",29 MPG,4.6 ,4.4 
+150,New 2020 MAZDA CX‑5 SUV,"$26,290",28 MPG,4.6 ,4.5 
+151,New 2020 Hyundai Santa Fe SUV,"$27,415",25 MPG,4.6 ,4.9 
+152,New 2020 Subaru Outback SUV,"$27,655",29 MPG,4.6 ,4.1 
+153,New 2020 Ford Mustang Coupe,"$27,765",23 MPG,4.6 ,4.7 
+154,New 2020 Toyota 86 Coupe,"$28,015",24 MPG,4.6 ,5 
+155,New 2020 Toyota Camry Hybrid Sedan,"$29,385",52 MPG,4.6 ,3.9 
+156,New 2020 Subaru BRZ Coupe,"$29,745",24 MPG,4.6 ,4.8 
+157,New 2020 Honda Odyssey Van/Minivan,"$31,910",22 MPG,4.6 ,3.7 
+158,New 2020 Acura RDX SUV,"$38,825",24 MPG,4.6 ,4.2 
+159,New 2020 BMW 3 Series Sedan,"$41,745",30 MPG,4.6 ,4.6 
+160,New 2020 Mercedes‑Benz GLC SUV,"$43,495",24 MPG,4.6 ,4 
+161,New 2020 Acura MDX SUV,"$45,525",23 MPG,4.6 ,4.1 
+162,New 2020 Volvo XC90 SUV,"$49,345",25 MPG,4.6 ,3.9 
+163,New 2019 Ram 1500 Quad Cab Pickup,"$34,535",17 MPG,4.6 ,4.1 
+164,New 2019 Audi S3 Sedan,"$45,495",25 MPG,4.6 ,4.5 
+165,New 2019 Mercedes‑Benz Mercedes‑AMG CLA Sedan,"$54,095",26 MPG,4.6 ,4.6 
+166,New 2019 Audi RS 3 Sedan,"$57,195",22 MPG,4.6 ,5 
+167,New 2019 Porsche 718 Boxster Convertible,"$60,250",24 MPG,4.6 ,5 
+168,New 2019 BMW M5 Sedan,"$104,695",17 MPG,4.6 ,5 
+169,Certified 2015 MAZDA MAZDA3 Sedan,"$10,660",33 MPG,4.6 ,4.7 
+170,Certified 2015 Honda Civic Coupe,"$10,998",31 MPG,4.6 ,4.5 
+171,Used 2015 Hyundai Sonata Sedan,"$11,076",29 MPG,4.6 ,4.5 
+172,Certified 2015 Chevrolet Impala Sedan,"$12,876",25 MPG,4.6 ,4.7 
+173,Certified 2015 Toyota Camry Sedan,"$13,123",28 MPG,4.6 ,4.4 
+174,Certified 2015 Subaru Forester SUV,"$13,278",25 MPG,4.6 ,4.3 
+175,Certified 2018 Honda Fit Hatchback,"$14,052",31 MPG,4.6 ,4.5 
+176,Certified 2016 Chevrolet Impala Sedan,"$14,174",25 MPG,4.6 ,4.7 
+177,Certified 2015 Ford F150 Regular Cab Pickup,"$15,096",17 MPG,4.6 ,4.6 
+178,Certified 2015 Toyota Sienna Van/Minivan,"$15,402",21 MPG,4.6 ,4.4 
+179,Certified 2019 Toyota Corolla Sedan,"$15,514",32 MPG,4.6 ,4.2 
+180,Certified 2019 Honda Fit Hatchback,"$15,900",36 MPG,4.6 ,4.5 
+181,Used 2016 BMW 3 Series Sedan,"$16,461",28 MPG,4.6 ,4.5 
+182,Certified 2015 Toyota RAV4 SUV,"$16,465",25 MPG,4.6 ,4.4 
+183,Certified 2017 Honda Accord Sedan,"$16,650",26 MPG,4.6 ,4.4 
+184,Certified 2016 Ford F150 Regular Cab Pickup,"$17,501",17 MPG,4.6 ,4.6 
+185,Certified 2018 Honda HR‑V SUV,"$17,521",28 MPG,4.6 ,4.3 
+186,Certified 2016 Honda Odyssey Van/Minivan,"$17,945",22 MPG,4.6 ,4.4 
+187,Certified 2019 Honda Civic Sedan,"$18,087",32 MPG,4.6 ,4.4 
+188,Certified 2015 Ford F150 Super Cab Pickup,"$18,122",17 MPG,4.6 ,4.6 
+189,Certified 2017 FIAT 124 Spider Convertible,"$18,219",29 MPG,4.6 ,4.9 
+190,Certified 2017 Chrysler Pacifica Van/Minivan,"$18,429",22 MPG,4.6 ,4.2 
+191,Used 2016 BMW X1 SUV,"$18,689",26 MPG,4.6 ,4.2 
+192,Certified 2016 BMW 2 Series Coupe,"$18,753",26 MPG,4.6 ,4.9 
+193,Certified 2017 Toyota 86 Coupe,"$18,764",24 MPG,4.6 ,5 
+194,Certified 2017 Honda Odyssey Van/Minivan,"$18,939",22 MPG,4.6 ,4.4 
+195,Certified 2018 Chrysler Pacifica Van/Minivan,"$18,950",22 MPG,4.6 ,4.2 
+196,Certified 2016 Audi Q3 SUV,"$19,792",23 MPG,4.6 ,5 
+197,Certified 2017 Honda Accord Hybrid Sedan,"$19,801",48 MPG,4.6 ,4.8 
+198,Certified 2019 Toyota Camry Sedan,"$20,020",32 MPG,4.6 ,3.9 
+199,Certified 2016 Ford F150 Super Cab Pickup,"$20,109",17 MPG,4.6 ,4.6 
+200,Certified 2019 Honda HR‑V SUV,"$20,112",29 MPG,4.6 ,4.3 
+201,Certified 2015 Toyota Highlander SUV,"$20,221",20 MPG,4.6 ,4.3 
+202,Certified 2017 Subaru BRZ Coupe,"$20,576",24 MPG,4.6 ,4.8 
+203,Certified 2017 BMW 3 Series Sedan,"$20,699",27 MPG,4.6 ,4.5 
+204,Certified 2018 Subaru BRZ Coupe,"$20,810",24 MPG,4.6 ,4.8 
+205,Certified 2018 Toyota 86 Coupe,"$20,814",24 MPG,4.6 ,5 
+206,Certified 2015 Ford F150 SuperCrew Cab Pickup,"$21,072",17 MPG,4.6 ,4.6 
+207,Certified 2016 Lexus IS Sedan,"$21,359",26 MPG,4.6 ,4.5 
+208,Certified 2017 BMW X1 SUV,"$21,685",26 MPG,4.6 ,4.2 
+209,Certified 2016 Acura RDX SUV,"$22,573",22 MPG,4.6 ,4.4 
+210,Certified 2018 Audi A3 Sedan,"$22,756",27 MPG,4.6 ,4.7 
+211,Certified 2019 Toyota 86 Coupe,"$22,888",24 MPG,4.6 ,5 
+212,Certified 2017 Mercedes‑Benz CLA Sedan,"$23,110",29 MPG,4.6 ,4.6 
+213,Certified 2016 Ford F150 SuperCrew Cab Pickup,"$23,390",17 MPG,4.6 ,4.6 
+214,Certified 2019 Subaru BRZ Coupe,"$23,680",24 MPG,4.6 ,4.8 
+215,Certified 2019 Subaru Forester SUV,"$23,688",29 MPG,4.6 ,4.4 
+216,Certified 2017 Chrysler Pacifica Hybrid Van/Minivan,"$24,030",32 MPG | 84 MPGe,4.6 ,5 
+217,Certified 2019 Toyota Camry Hybrid Sedan,"$24,821",52 MPG,4.6 ,3.9 
+218,Certified 2019 Audi A3 Sedan,"$25,192",25 MPG,4.6 ,4.7 
+219,Certified 2017 INFINITI Q60 Coupe,"$25,537",24 MPG,4.6 ,4.7 
+220,Certified 2019 MAZDA MX‑5 Miata Convertible,"$25,721",29 MPG,4.6 ,4.9 
+221,Certified 2018 Chrysler Pacifica Hybrid Van/Minivan,"$26,253",32 MPG | 84 MPGe,4.6 ,5 
+222,Certified 2016 Mercedes‑Benz GLE SUV,"$26,550",20 MPG,4.6 ,4.6 
+223,Certified 2017 Audi A6 Sedan,"$26,713",25 MPG,4.6 ,4.6 
+224,Certified 2018 Mercedes‑Benz CLA Sedan,"$26,979",29 MPG,4.6 ,4.6 
+225,Certified 2019 Honda Odyssey Van/Minivan,"$27,294",22 MPG,4.6 ,3.7 
+226,Certified 2018 Audi A6 Sedan,"$28,929",26 MPG,4.6 ,4.6 
+227,Certified 2018 Audi A3 Sportback e‑tron Wagon,"$29,187",36 MPG | 83 MPGe,4.6 ,4.8 
+228,Certified 2019 Honda Passport SUV,"$29,200",21 MPG,4.6 ,4.3 
+229,Certified 2019 MAZDA MX‑5 Miata RF Convertible,"$29,709",29 MPG,4.6 ,4.9 
+230,Certified 2017 Volvo XC90 SUV,"$29,900",23 MPG,4.6 ,3.9 
+231,Certified 2018 Buick Enclave SUV,"$30,149",20 MPG,4.6 ,4.3 
+232,Certified 2019 BMW X2 SUV,"$30,414",26 MPG,4.6 ,5 
+233,Certified 2019 Volvo S60 Sedan,"$30,650",28 MPG,4.6 ,3.7 
+234,Certified 2019 Ram 1500 Crew Cab Pickup,"$31,168",17 MPG,4.6 ,4.1 
+235,Certified 2018 Audi S3 Sedan,"$31,779",25 MPG,4.6 ,4.5 
+236,Certified 2017 Lexus RX SUV,"$32,301",22 MPG,4.6 ,4 
+237,Certified 2017 Chevrolet Tahoe SUV,"$32,306",18 MPG,4.6 ,4 
+238,Certified 2019 Acura RDX SUV,"$32,579",24 MPG,4.6 ,4.2 
+239,Certified 2017 BMW X5 SUV,"$33,000",21 MPG,4.6 ,4.4 
+240,Certified 2018 Volvo XC90 SUV,"$34,850",25 MPG,4.6 ,3.9 
+241,Certified 2018 BMW 5 Series Sedan,"$35,527",29 MPG | 72 MPGe,4.6 ,5 
+242,Certified 2019 Acura MDX SUV,"$36,200",23 MPG,4.6 ,4.1 
+243,Certified 2018 Chevrolet Tahoe SUV,"$37,299",18 MPG,4.6 ,4 
+244,Certified 2018 Lexus RX SUV,"$37,479",22 MPG,4.6 ,4 
+245,Certified 2019 Mercedes‑Benz GLC SUV,"$38,142",24 MPG,4.6 ,4 
+246,Certified 2017 Mercedes‑Benz Mercedes‑AMG CLA Sedan,"$38,336",26 MPG,4.6 ,4.6 
+247,Certified 2019 BMW 3 Series Sedan,"$38,373",27 MPG,4.6 ,4.6 
+248,Certified 2019 BMW 5 Series Sedan,"$40,503",27 MPG,4.6 ,5 
+249,Certified 2018 BMW X5 SUV,"$41,100",21 MPG,4.6 ,4.4 
+250,Certified 2018 Mercedes‑Benz Mercedes‑AMG CLA Sedan,"$41,609",26 MPG,4.6 ,4.6 
+251,Certified 2019 Acura MDX Sport Hybrid SUV,"$42,300",27 MPG,4.6 ,4.1 
+252,Certified 2017 Audi S6 Sedan,"$43,076",21 MPG,4.6 ,4.8 
+253,Certified 2016 BMW M3 Sedan,"$44,500",19 MPG,4.6 ,4.7 
+254,Certified 2018 Audi RS 3 Sedan,"$46,359",22 MPG,4.6 ,5 
+255,Certified 2018 Audi A7 Sedan,"$46,532",23 MPG,4.6 ,4.7 
+256,Certified 2019 Mercedes‑Benz E‑Class Sedan,"$46,664",25 MPG,4.6 ,4.5 
+257,Certified 2018 Mercedes‑Benz Mercedes‑AMG GLC SUV,"$47,217",20 MPG,4.6 ,4 
+258,Certified 2016 Mercedes‑Benz Mercedes‑AMG GLE SUV,"$50,200",15 MPG,4.6 ,4.6 
+259,Certified 2017 BMW M3 Sedan,"$51,264",19 MPG,4.6 ,4.7 
+260,Certified 2018 Audi S7 Sedan,"$57,996",18 MPG,4.6 ,4.9 
+261,Certified 2017 BMW X5 M SUV,"$58,119",16 MPG,4.6 ,4.4 
+262,Certified 2019 Mercedes‑Benz Mercedes‑AMG GLC SUV,"$58,433",21 MPG,4.6 ,4 
+263,Certified 2019 Porsche Cayenne SUV,"$64,380",20 MPG,4.6 ,5 
+264,Certified 2018 BMW X5 M SUV,"$70,600",16 MPG,4.6 ,4.4 
+265,Certified 2018 BMW M5 Sedan,"$87,500",17 MPG,4.6 ,5 
+266,New 2020 Kia Forte Sedan,"$18,855",31 MPG,4.5 ,4.4 
+267,New 2020 Hyundai Elantra Sedan,"$20,275",35 MPG,4.5 ,4.3 
+268,New 2020 Hyundai Kona SUV,"$21,440",30 MPG,4.5 ,4.6 
+269,New 2020 Chrysler Voyager Van/Minivan,"$28,480",22 MPG,4.5 ,4.2 
+270,New 2020 Subaru Ascent SUV,"$33,005",23 MPG,4.5 ,4 
+271,New 2020 Chrysler Pacifica Van/Minivan,"$34,990",22 MPG,4.5 ,4.2 
+272,New 2020 Ram 1500 Crew Cab Pickup,"$36,640",17 MPG,4.5 ,4.1 
+273,New 2020 INFINITI Q50 Sedan,"$37,425",23 MPG,4.5 ,4.3 
+274,New 2020 Hyundai Kona Electric SUV,"$38,330",120 MPGe,4.5 ,4.6 
+275,New 2020 Lexus IS Sedan,"$39,585",24 MPG,4.5 ,4.5 
+276,New 2020 Buick Enclave SUV,"$41,195",21 MPG,4.5 ,4.3 
+277,New 2020 Lexus RX SUV,"$45,175",23 MPG,4.5 ,4 
+278,New 2020 Porsche Cayenne SUV,"$68,150",20 MPG,4.5 ,5 
+279,New 2019 BMW i3 Hatchback,"$45,445",113 MPGe,4.5 ,4.5 
+280,New 2019 Mercedes‑Benz Mercedes‑AMG GLE SUV,"$69,145",19 MPG,4.5 ,4.6 
+281,Certified 2015 Ford Fiesta Sedan,"$7,044",31 MPG,4.5 ,3.9 
+282,Used 2015 Hyundai Accent Sedan,"$7,717",30 MPG,4.5 ,4.4 
+283,Certified 2015 Chevrolet Sonic Sedan,"$7,978",28 MPG,4.5 ,4.3 
+284,Certified 2016 Hyundai Accent Sedan,"$9,074",30 MPG,4.5 ,4.4 
+285,Used 2015 Kia Sedona Van/Minivan,"$10,998",20 MPG,4.5 ,4.3 
+286,Used 2014 Honda Odyssey Van/Minivan,"$11,180",22 MPG,4.5 ,4.4 
+287,Certified 2015 MAZDA MAZDA6 Sedan,"$11,959",29 MPG,4.5 ,4.8 
+288,Certified 2016 MAZDA MAZDA3 Hatchback,"$12,153",33 MPG,4.5 ,4.7 
+289,Certified 2017 Hyundai Elantra GT Hatchback,"$12,696",27 MPG,4.5 ,4.2 
+290,Certified 2016 MAZDA MAZDA6 Sedan,"$12,952",29 MPG,4.5 ,4.8 
+291,Certified 2017 Hyundai Elantra Sedan,"$13,067",29 MPG,4.5 ,4.3 
+292,Certified 2017 Hyundai Sonata Sedan,"$13,178",29 MPG,4.5 ,4.5 
+293,Certified 2017 MAZDA MAZDA3 Hatchback,"$13,259",31 MPG,4.5 ,4.7 
+294,Certified 2018 Hyundai Elantra Sedan,"$13,717",29 MPG,4.5 ,4.3 
+295,Certified 2016 Hyundai Sonata Hybrid Sedan,"$13,754",42 MPG,4.5 ,4.3 
+296,Certified 2016 Kia Optima Sedan,"$13,782",30 MPG,4.5 ,4.3 
+297,Certified 2016 Toyota Camry Sedan,"$14,190",28 MPG,4.5 ,4.4 
+298,Certified 2015 Toyota Tacoma Access Cab Pickup,"$14,400",17 MPG,4.5 ,4.7 
+299,Certified 2017 Kia Optima Sedan,"$14,720",28 MPG,4.5 ,4.3 
+300,Certified 2016 Subaru Forester SUV,"$14,735",25 MPG,4.5 ,4.3 
+301,Certified 2015 Subaru XV Crosstrek SUV,"$14,983",31 MPG,4.5 ,4.4 
+302,Certified 2018 Nissan Kicks SUV,"$15,156",33 MPG,4.5 ,3.5 
+303,Certified 2017 Chevrolet Impala Sedan,"$15,290",22 MPG,4.5 ,4.7 
+304,Used 2015 Jeep Grand Cherokee SUV,"$15,400",19 MPG,4.5 ,4.4 
+305,Certified 2016 Subaru Crosstrek SUV,"$15,478",26 MPG,4.5 ,4.4 
+306,Certified 2019 Hyundai Elantra Sedan,"$15,637",29 MPG,4.5 ,4.3 
+307,Certified 2017 Kia Optima Hybrid Sedan,"$15,809",42 MPG,4.5 ,4.2 
+308,Certified 2016 Toyota Prius Hatchback,"$15,844",52 MPG,4.5 ,4.6 
+309,Certified 2018 Hyundai Elantra GT Hatchback,"$15,926",26 MPG,4.5 ,4.3 
+310,Certified 2017 Kia Sportage SUV,"$15,984",23 MPG,4.5 ,4.7 
+311,Used 2015 Ram 1500 Regular Cab Pickup,"$16,072",15 MPG,4.5 ,4.6 
+312,Certified 2017 Toyota Camry Sedan,"$16,151",27 MPG,4.5 ,4.4 
+313,Certified 2017 Kia Niro Wagon,"$16,200",50 MPG,4.5 ,4.8 
+314,Certified 2017 Nissan Rogue Sport SUV,"$16,448",27 MPG,4.5 ,4.3 
+315,Certified 2016 Toyota Prius v Wagon,"$16,682",42 MPG,4.5 ,4.4 
+316,Certified 2017 Hyundai Ioniq Hybrid Hatchback,"$16,694",58 MPG,4.5 ,4.3 
+317,Used 2015 Hyundai Genesis Sedan,"$16,909",19 MPG,4.5 ,4.7 
+318,Certified 2016 Chevrolet Volt Sedan,"$17,151",42 MPG | 106 MPGe,4.5 ,4.7 
+319,Certified 2018 Hyundai Kona SUV,"$17,203",27 MPG,4.5 ,4.6 
+320,Certified 2016 Hyundai Sonata Plug‑in Hybrid Sedan,"$17,235",40 MPG | 99 MPGe,4.5 ,4 
+321,Certified 2018 Chevrolet Impala Sedan,"$17,256",22 MPG,4.5 ,4.7 
+322,Certified 2017 Subaru Forester SUV,"$17,279",24 MPG,4.5 ,4.3 
+323,Certified 2019 Hyundai Elantra GT Hatchback,"$17,464",27 MPG,4.5 ,4.3 
+324,Certified 2019 Hyundai Kona SUV,"$17,546",27 MPG,4.5 ,4.6 
+325,Certified 2016 Toyota Tacoma Access Cab Pickup,"$17,550",20 MPG,4.5 ,4.3 
+326,Certified 2016 Toyota Sienna Van/Minivan,"$17,758",21 MPG,4.5 ,4.4 
+327,Certified 2019 Nissan Kicks SUV,"$17,822",33 MPG,4.5 ,3.5 
+328,Certified 2016 Lexus CT Hatchback,"$17,988",42 MPG,4.5 ,4.8 
+329,Certified 2016 Ram 1500 Regular Cab Pickup,"$18,172",15 MPG,4.5 ,4.6 
+330,Certified 2017 Chevrolet Volt Hatchback,"$18,261",42 MPG | 106 MPGe,4.5 ,4.7 
+331,Certified 2016 Toyota RAV4 SUV,"$18,286",25 MPG,4.5 ,4.4 
+332,Certified 2017 Kia Optima Plug‑in Hybrid Sedan,"$18,347",40 MPG | 103 MPGe,4.5 ,4.2 
+333,Certified 2018 GMC Terrain SUV,"$18,385",28 MPG,4.5 ,3.9 
+334,Certified 2016 Audi A4 Sedan,"$18,525",25 MPG,4.5 ,4.5 
+335,Certified 2016 Chevrolet Camaro Coupe,"$18,685",21 MPG,4.5 ,4.5 
+336,Certified 2017 Hyundai Ioniq Electric Hatchback,"$18,700",136 MPGe,4.5 ,4.3 
+337,Used 2015 Ram 1500 Crew Cab Pickup,"$18,777",15 MPG,4.5 ,4.6 
+338,Used 2015 Ram 1500 Quad Cab Pickup,"$18,911",15 MPG,4.5 ,4.6 
+339,Certified 2019 MAZDA MAZDA3 Sedan,"$18,980",30 MPG,4.5 ,4.9 
+340,Certified 2017 Hyundai Sonata Plug‑in Hybrid Sedan,"$18,997",39 MPG | 99 MPGe,4.5 ,4 
+341,Certified 2017 Toyota Camry Hybrid Sedan,"$19,133",40 MPG,4.5 ,4.4 
+342,Certified 2017 Toyota RAV4 SUV,"$19,145",25 MPG,4.5 ,4.4 
+343,Certified 2017 Toyota Sienna Van/Minivan,"$19,268",22 MPG,4.5 ,4.4 
+344,Certified 2017 Ford F150 Regular Cab Pickup,"$19,552",17 MPG,4.5 ,4.6 
+345,Certified 2018 FIAT 124 Spider Convertible,"$19,581",29 MPG,4.5 ,4.9 
+346,Certified 2019 Chevrolet Impala Sedan,"$20,286",22 MPG,4.5 ,4.7 
+347,Certified 2018 Nissan LEAF Hatchback,"$20,500",112 MPGe,4.5 ,3.9 
+348,Certified 2017 INFINITI Q50 Sedan,"$20,766",24 MPG,4.5 ,4.3 
+349,Certified 2016 Hyundai Genesis Sedan,"$21,309",19 MPG,4.5 ,4.7 
+350,Certified 2015 Toyota Tacoma Double Cab Pickup,"$21,350",19 MPG,4.5 ,4.7 
+351,Certified 2016 Lexus NX SUV,"$21,431",24 MPG,4.5 ,4.4 
+352,Certified 2016 Ram 1500 Quad Cab Pickup,"$21,611",15 MPG,4.5 ,4.6 
+353,Certified 2018 Ford F150 Regular Cab Pickup,"$21,706",18 MPG,4.5 ,4.6 
+354,Certified 2016 Ram 1500 Quad Cab Pickup,"$21,611",15 MPG,4.5 ,4.6 
+355,Certified 2016 Ram 1500 Crew Cab Pickup,"$21,751",15 MPG,4.5 ,4.6 
+356,Certified 2017 Ford F150 Super Cab Pickup,"$21,802",16 MPG,4.5 ,4.6 
+357,Certified 2016 Toyota Highlander SUV,"$21,900",20 MPG,4.5 ,4.3 
+358,Certified 2017 Toyota RAV4 Hybrid SUV,"$22,103",32 MPG,4.5 ,4.4 
+359,Certified 2019 Chrysler Pacifica Van/Minivan,"$22,133",22 MPG,4.5 ,4.2 
+360,Certified 2017 Audi Q3 SUV,"$22,303",23 MPG,4.5 ,5 
+361,Certified 2016 Audi Q5 SUV,"$22,419",23 MPG,4.5 ,4.4 
+362,Certified 2019 FIAT 124 Spider Convertible,"$22,880",29 MPG,4.5 ,4.9 
+363,Certified 2016 Lexus GS Sedan,"$22,948",26 MPG,4.5 ,4.7 
+364,Certified 2018 INFINITI Q50 Sedan,"$23,464",24 MPG,4.5 ,4.3 
+365,Certified 2018 Volkswagen Atlas SUV,"$23,529",20 MPG,4.5 ,4.1 
+366,Certified 2018 Chevrolet Traverse SUV,"$24,056",20 MPG,4.5 ,4.3 
+367,Certified 2017 Acura RDX SUV,"$24,175",22 MPG,4.5 ,4.4 
+368,Certified 2016 Toyota Tacoma Double Cab Pickup,"$24,500",20 MPG,4.5 ,4.3 
+369,Certified 2018 Audi Q3 SUV,"$24,627",23 MPG,4.5 ,5 
+370,Certified 2017 Lexus IS Sedan,"$24,719",26 MPG,4.5 ,4.5 
+371,Certified 2017 Lexus NX SUV,"$24,938",24 MPG,4.5 ,4.4 
+372,Certified 2017 Toyota Highlander SUV,"$25,150",22 MPG,4.5 ,4.3 
+373,Certified 2018 Jeep Wrangler SUV,"$25,300",18 MPG,4.5 ,4.6 
+374,Certified 2018 BMW 3 Series Sedan,"$25,716",27 MPG,4.5 ,4.5 
+375,Certified 2018 Ford F150 Super Cab Pickup,"$25,795",18 MPG,4.5 ,4.6 
+376,Certified 2017 Toyota Highlander Hybrid SUV,"$26,150",28 MPG,4.5 ,4.5 
+377,Certified 2018 BMW 2 Series Coupe,"$26,151",25 MPG,4.5 ,4.9 
+378,Certified 2019 INFINITI Q50 Sedan,"$26,400",24 MPG,4.5 ,4.3 
+379,Certified 2017 Ford F150 SuperCrew Cab Pickup,"$26,800",17 MPG,4.5 ,4.6 
+380,Certified 2019 Subaru Ascent SUV,"$27,100",23 MPG,4.5 ,4 
+381,Certified 2018 BMW X1 SUV,"$27,521",26 MPG,4.5 ,4.2 
+382,Certified 2018 Ford F150 SuperCrew Cab Pickup,"$27,717",17 MPG,4.5 ,4.6 
+383,Certified 2018 Acura RDX SUV,"$27,818",22 MPG,4.5 ,4.4 
+384,Used 2015 GMC Yukon XL SUV,"$27,958",18 MPG,4.5 ,3.9 
+385,Certified 2018 INFINITI Q60 Coupe,"$28,185",24 MPG,4.5 ,4.7 
+386,Certified 2017 Lexus GS Sedan,"$28,596",26 MPG,4.5 ,4.7 
+387,Certified 2019 Mercedes‑Benz CLA Sedan,"$28,613",29 MPG,4.5 ,4.6 
+388,Certified 2018 Jeep Wrangler Unlimited SUV,"$28,750",18 MPG,4.5 ,4.6 
+389,Certified 2018 Lexus IS Sedan,"$29,090",22 MPG,4.5 ,4.5 
+390,Certified 2016 Audi S4 Sedan,"$29,480",20 MPG,4.5 ,4.9 
+391,Certified 2015 GMC Yukon SUV,"$30,538",18 MPG,4.5 ,3.9 
+392,Certified 2017 Mercedes‑Benz GLE SUV,"$31,250",20 MPG,4.5 ,4.6 
+393,Certified 2016 Porsche Cayenne SUV,"$31,280",21 MPG,4.5 ,4.5 
+394,Certified 2019 BMW 2 Series Coupe,"$31,281",25 MPG,4.5 ,4.9 
+395,Certified 2016 GMC Yukon XL SUV,"$32,032",18 MPG,4.5 ,3.9 
+396,Certified 2019 Lexus IS Sedan,"$32,188",21 MPG,4.5 ,4.5 
+397,Certified 2019 Hyundai Kona Electric SUV,"$32,300",120 MPGe,4.5 ,4.6 
+398,Certified 2016 GMC Yukon SUV,"$32,500",18 MPG,4.5 ,3.9 
+399,Certified 2019 BMW X1 SUV,"$32,733",26 MPG,4.5 ,4.2 
+400,Certified 2019 Buick Enclave SUV,"$32,950",20 MPG,4.5 ,4.3 
+401,Certified 2016 Audi SQ5 SUV,"$33,291",19 MPG,4.5 ,4.7 
+402,Certified 2016 Audi SQ5 SUV,"$33,541",19 MPG,4.5 ,4.7 
+403,Certified 2019 INFINITI Q60 Coupe,"$33,800",22 MPG,4.5 ,4.7 
+404,Certified 2018 Mercedes‑Benz GLE SUV,"$35,650",20 MPG,4.5 ,4.6 
+405,Certified 2019 Chevrolet Tahoe SUV,"$38,262",18 MPG,4.5 ,4 
+406,Certified 2017 Porsche Cayenne SUV,"$38,480",20 MPG,4.5 ,4.5 
+407,Certified 2019 Volvo XC90 SUV,"$40,600",25 MPG,4.5 ,3.9 
+408,Certified 2019 Lexus RX SUV,"$41,300",22 MPG,4.5 ,4 
+409,Certified 2017 Mercedes‑Benz Mercedes‑AMG GLE SUV,"$42,100",20 MPG,4.5 ,4.6 
+410,Certified 2019 Mercedes‑Benz GLE SUV,"$46,300",20 MPG,4.5 ,4.6 
+411,Certified 2018 Mercedes‑Benz Mercedes‑AMG GLE SUV,"$49,000",19 MPG,4.5 ,4.6 
+412,Certified 2020 Chevrolet Tahoe SUV,"$49,300",17 MPG,4.5 ,4 
+413,Certified 2018 BMW M3 Sedan,"$54,481",20 MPG,4.5 ,4.7 
+414,Certified 2017 BMW M6 Coupe,"$57,777",16 MPG,4.5 ,5 
+415,New 2020 Hyundai Veloster Coupe,"$19,775",28 MPG,4.4 ,5 
+416,New 2020 Toyota C‑HR SUV,"$22,415",29 MPG,4.4 ,4.5 
+417,New 2020 MAZDA MAZDA3 Sedan,"$22,445",30 MPG,4.4 ,4.9 
+418,New 2020 Subaru Legacy Sedan,"$23,630",30 MPG,4.4 ,4.8 
+419,New 2020 Kia Optima Sedan,"$24,355",27 MPG,4.4 ,4.3 
+420,New 2020 Chevrolet Equinox SUV,"$24,995",28 MPG,4.4 ,4.1 
+421,New 2020 Nissan Altima Sedan,"$25,025",32 MPG,4.4 ,4.5 
+422,New 2020 Kia Sportage SUV,"$25,110",26 MPG,4.4 ,4.7 
+423,New 2020 Toyota Prius Hatchback,"$25,280",52 MPG,4.4 ,4.6 
+424,New 2020 GMC Terrain SUV,"$26,195",27 MPG,4.4 ,3.9 
+425,New 2020 Acura ILX Sedan,"$26,925",28 MPG,4.4 ,4.4 
+426,New 2020 Jeep Wrangler SUV,"$29,790",20 MPG,4.4 ,4.8 
+427,New 2020 Kia Optima Hybrid Sedan,"$30,235",42 MPG,4.4 ,4.2 
+428,New 2020 Chevrolet Traverse SUV,"$30,995",21 MPG,4.4 ,4.3 
+429,New 2020 Toyota Sienna Van/Minivan,"$32,760",21 MPG,4.4 ,4.4 
+430,New 2020 Jeep Wrangler Unlimited SUV,"$33,290",19 MPG,4.4 ,4.8 
+431,New 2020 Ford F150 SuperCrew Cab Pickup,"$36,630",19 MPG,4.4 ,4.6 
+432,New 2020 Kia Optima Plug‑in Hybrid Sedan,"$37,150",41 MPG | 101 MPGe,4.4 ,4.2 
+433,New 2020 Lexus NX SUV,"$37,895",25 MPG,4.4 ,4.4 
+434,New 2020 INFINITI QX50 SUV,"$38,275",26 MPG,4.4 ,4.4 
+435,New 2020 BMW X3 SUV,"$42,945",27 MPG,4.4 ,4.1 
+436,New 2020 Lexus GS Sedan,"$52,090",21 MPG,4.4 ,4.7 
+437,New 2019 Hyundai Sonata Hybrid Sedan,"$26,680",42 MPG,4.4 ,4.3 
+438,New 2019 Ram 1500 Classic Regular Cab Pickup,"$29,090",17 MPG,4.4 ,4.6 
+439,New 2019 Kia Niro Plug‑in Hybrid Wagon,"$29,545",46 MPG | 105 MPGe,4.4 ,4.8 
+440,New 2019 INFINITI QX30 SUV,"$31,175",27 MPG,4.4 ,3.8 
+441,New 2019 Ram 1500 Classic Quad Cab Pickup,"$32,990",17 MPG,4.4 ,4.6 
+442,New 2019 Hyundai Sonata Plug‑in Hybrid Sedan,"$34,355",39 MPG | 99 MPGe,4.4 ,4 
+443,New 2019 Chevrolet Volt Sedan,"$34,395",42 MPG | 106 MPGe,4.4 ,4.7 
+444,New 2019 Kia Niro EV Wagon,"$39,545",112 MPGe,4.4 ,4.3 
+445,Used 2015 Kia Rio Sedan,"$7,387",31 MPG,4.4 ,4.3 
+446,Certified 2016 Ford Fiesta Hatchback,"$7,960",30 MPG,4.4 ,3.9 
+447,Certified 2016 Nissan Versa Note Hatchback,"$8,111",30 MPG,4.4 ,3.9 
+448,Certified 2016 Chevrolet Sonic Sedan,"$8,792",28 MPG,4.4 ,4.3 
+449,Certified 2017 Ford Fiesta Sedan,"$9,113",30 MPG,4.4 ,3.9 
+450,Used 2015 Kia Forte Sedan,"$9,384",30 MPG,4.4 ,4.6 
+451,Used 2015 Kia Forte Koup Coupe,"$9,934",27 MPG,4.4 ,4.6 
+452,Certified 2017 Nissan Versa Note Hatchback,"$10,009",34 MPG,4.4 ,3.9 
+453,Used 2015 Kia Soul Wagon,"$10,185",26 MPG,4.4 ,4.5 
+454,Used 2015 Kia Forte5 Hatchback,"$10,271",28 MPG,4.4 ,4.6 
+455,Certified 2017 Chevrolet Sonic Sedan,"$10,791",28 MPG,4.4 ,4.3 
+456,Certified 2017 Hyundai Accent Sedan,"$10,864",30 MPG,4.4 ,4.4 
+457,Certified 2016 Chevrolet Cruze Sedan,"$11,405",33 MPG,4.4 ,4.4 
+458,Used 2015 Kia Soul EV Wagon,"$11,755",105 MPGe,4.4 ,4.8 
+459,Certified 2016 Kia Soul Wagon,"$11,918",26 MPG,4.4 ,4.5 
+460,Certified 2015 Nissan Rogue SUV,"$12,271",28 MPG,4.4 ,4.3 
+461,Certified 2015 GMC Canyon Extended Cab Pickup,"$12,319",22 MPG,4.4 ,4.6 
+462,Certified 2016 Kia Soul EV Wagon,"$12,577",105 MPGe,4.4 ,4.8 
+463,Certified 2018 Hyundai Accent Sedan,"$13,098",31 MPG,4.4 ,5 
+464,Used 2016 Hyundai Tucson SUV,"$13,672",23 MPG,4.4 ,4.3 
+465,Certified 2016 MAZDA CX‑3 SUV,"$13,790",29 MPG,4.4 ,4.7 
+466,Used 2016 Kia Sedona Van/Minivan,"$13,958",20 MPG,4.4 ,4.3 
+467,Certified 2015 Subaru Outback SUV,"$14,400",28 MPG,4.4 ,4.5 
+468,Certified 2017 MAZDA MAZDA6 Sedan,"$14,564",28 MPG,4.4 ,4.8 
+469,Certified 2016 Acura ILX Sedan,"$14,649",29 MPG,4.4 ,4.4 
+470,Certified 2018 MAZDA MAZDA3 Sedan,"$14,668",31 MPG,4.4 ,4.7 
+471,Certified 2017 Nissan Rogue SUV,"$15,368",27 MPG,4.4 ,4.3 
+472,Certified 2018 Hyundai Sonata Sedan,"$15,502",29 MPG,4.4 ,4.5 
+473,Certified 2017 Subaru Impreza Wagon,"$15,882",32 MPG,4.4 ,4.1 
+474,Certified 2019 Volkswagen Jetta Sedan,"$16,133",34 MPG,4.4 ,4.5 
+475,Certified 2018 Kia Optima Sedan,"$16,229",28 MPG,4.4 ,4.3 
+476,Certified 2019 Hyundai Veloster Coupe,"$16,263",28 MPG,4.4 ,5 
+477,Certified 2016 Acura TLX Sedan,"$16,772",28 MPG,4.4 ,4.3 
+478,Certified 2018 Kia Sportage SUV,"$16,816",23 MPG,4.4 ,4.7 
+479,Certified 2015 GMC Canyon Crew Cab Pickup,"$16,832",21 MPG,4.4 ,4.6 
+480,Certified 2017 Acura ILX Sedan,"$16,895",29 MPG,4.4 ,4.4 
+481,Certified 2017 Kia Sedona Van/Minivan,"$16,963",20 MPG,4.4 ,4.3 
+482,Certified 2016 Subaru Outback SUV,"$17,000",28 MPG,4.4 ,4.5 
+483,Certified 2018 Chevrolet Equinox SUV,"$17,226",28 MPG,4.4 ,4.1 
+484,Certified 2018 Kia Niro Wagon,"$17,300",50 MPG,4.4 ,4.8 
+485,Certified 2018 MAZDA MAZDA6 Sedan,"$17,366",27 MPG,4.4 ,4.8 
+486,Certified 2019 Kia Optima Sedan,"$17,682",27 MPG,4.4 ,4.3 
+487,Certified 2018 Kia Optima Hybrid Sedan,"$17,951",42 MPG,4.4 ,4.2 
+488,Certified 2018 Nissan Rogue Sport SUV,"$17,953",27 MPG,4.4 ,4.3 
+489,Certified 2018 Hyundai Ioniq Hybrid Hatchback,"$18,250",58 MPG,4.4 ,4.3 
+490,Certified 2017 Ram 1500 Regular Cab Pickup,"$18,833",17 MPG,4.4 ,4.6 
+491,Certified 2019 Nissan Altima Sedan,"$18,904",30 MPG,4.4 ,4.5 
+492,Certified 2018 Toyota C‑HR SUV,"$19,058",29 MPG,4.4 ,4.5 
+493,Certified 2017 Subaru Crosstrek SUV,"$19,120",26 MPG,4.4 ,4.4 
+494,Certified 2019 Hyundai Ioniq Hybrid Hatchback,"$19,250",58 MPG,4.4 ,4.3 
+495,Certified 2019 Chevrolet Equinox SUV,"$19,359",27 MPG,4.4 ,4.1 
+496,Certified 2018 Chevrolet Camaro Coupe,"$19,403",20 MPG,4.4 ,4.5 
+497,Certified 2016 Mercedes‑Benz GLA SUV,"$19,470",29 MPG,4.4 ,4.4 
+498,Certified 2016 Jeep Grand Cherokee SUV,"$19,600",21 MPG,4.4 ,4.4 
+499,Used 2016 BMW X3 SUV,"$19,620",24 MPG,4.4 ,4.5 
+500,Certified 2019 Kia Niro Wagon,"$19,650",50 MPG,4.4 ,4.8 
+501,Certified 2019 Kia Sportage SUV,"$19,681",23 MPG,4.4 ,4.7 
+502,Certified 2017 Toyota Tacoma Access Cab Pickup,"$19,800",20 MPG,4.4 ,4.3 
+503,Certified 2019 Nissan Rogue Sport SUV,"$19,826",27 MPG,4.4 ,4.3 
+504,Certified 2018 Chevrolet Volt Sedan,"$19,850",42 MPG | 106 MPGe,4.4 ,4.7 
+505,Certified 2016 Nissan 370Z Coupe,"$20,005",21 MPG,4.4 ,4.8 
+506,Certified 2018 Ram 1500 Regular Cab Pickup,"$20,121",17 MPG,4.4 ,4.6 
+507,Certified 2018 Hyundai Ioniq Plug‑in Hybrid Hatchback,"$20,150",52 MPG | 119 MPGe,4.4 ,4.3 
+508,Certified 2018 Toyota Tacoma Access Cab Pickup,"$20,342",20 MPG,4.4 ,4.3 
+509,Certified 2019 Toyota C‑HR SUV,"$20,359",29 MPG,4.4 ,4.5 
+510,Certified 2018 Subaru Forester SUV,"$20,472",24 MPG,4.4 ,4.3 
+511,Certified 2019 MAZDA MAZDA6 Sedan,"$20,554",29 MPG,4.4 ,4.8 
+512,Certified 2017 Lexus CT Hatchback,"$20,577",42 MPG,4.4 ,4.8 
+513,Certified 2018 Toyota RAV4 SUV,"$20,656",25 MPG,4.4 ,4.4 
+514,Certified 2019 Honda Insight Sedan,"$20,700",52 MPG,4.4 ,4.6 
+515,Certified 2017 INFINITI QX30 SUV,"$21,129",25 MPG,4.4 ,3.8 
+516,Certified 2019 GMC Terrain SUV,"$21,163",28 MPG,4.4 ,3.9 
+517,Certified 2019 Kia Optima Hybrid Sedan,"$21,305",41 MPG,4.4 ,4.2 
+518,Certified 2019 Acura ILX Sedan,"$21,521",28 MPG,4.4 ,4.4 
+519,Certified 2018 INFINITI QX30 SUV,"$21,617",25 MPG,4.4 ,3.8 
+520,Certified 2018 Kia Optima Plug‑in Hybrid Sedan,"$21,880",40 MPG | 103 MPGe,4.4 ,4.2 
+521,Certified 2019 Toyota Prius Hatchback,"$21,900",52 MPG,4.4 ,4.6 
+522,Certified 2018 Toyota Sienna Van/Minivan,"$21,901",22 MPG,4.4 ,4.4 
+523,Certified 2019 Nissan LEAF Hatchback,"$22,050",112 MPGe,4.4 ,3.9 
+524,Certified 2019 Hyundai Ioniq Plug‑in Hybrid Hatchback,"$22,150",52 MPG | 119 MPGe,4.4 ,4.3 
+525,Certified 2017 Toyota Prius v Wagon,"$22,300",41 MPG,4.4 ,4.4 
+526,Certified 2017 Jeep Grand Cherokee SUV,"$22,400",21 MPG,4.4 ,4.4 
+527,Certified 2018 Subaru WRX Sedan,"$22,669",23 MPG,4.4 ,4.6 
+528,Certified 2018 Hyundai Sonata Plug‑in Hybrid Sedan,"$22,850",39 MPG | 99 MPGe,4.4 ,4 
+529,Certified 2018 Acura TLX Sedan,"$22,893",27 MPG,4.4 ,4.3 
+530,Certified 2019 Volkswagen Jetta GLI Sedan,"$23,089",28 MPG,4.4 ,4.5 
+531,Certified 2018 Kia Niro Plug‑in Hybrid Wagon,"$23,100",46 MPG | 105 MPGe,4.4 ,4.8 
+532,Certified 2018 Hyundai Ioniq Electric Hatchback,"$23,150",136 MPGe,4.4 ,4.3 
+533,Certified 2018 Kia Stinger Sedan,"$23,484",24 MPG,4.4 ,4.6 
+534,Certified 2018 Toyota RAV4 Hybrid SUV,"$23,640",32 MPG,4.4 ,4.4 
+535,Certified 2017 Ram 1500 Quad Cab Pickup,"$23,676",19 MPG,4.4 ,4.6 
+536,Certified 2017 Ram 1500 Crew Cab Pickup,"$23,677",17 MPG,4.4 ,4.6 
+537,Certified 2019 Ford F150 Regular Cab Pickup,"$24,600",18 MPG,4.4 ,4.6 
+538,Certified 2018 Ram 1500 Crew Cab Pickup,"$24,606",17 MPG,4.4 ,4.6 
+539,Certified 2017 Honda Ridgeline Pickup,"$24,850",21 MPG,4.4 ,4.8 
+540,Used 2015 Chevrolet Suburban SUV,"$25,088",18 MPG,4.4 ,4.1 
+541,Certified 2019 Kia Optima Plug‑in Hybrid Sedan,"$25,148",41 MPG | 101 MPGe,4.4 ,4.2 
+542,Certified 2017 BMW X3 SUV,"$25,165",24 MPG,4.4 ,4.5 
+543,Certified 2017 Audi Q5 SUV,"$25,219",22 MPG,4.4 ,4.4 
+544,Certified 2019 Toyota Sienna Van/Minivan,"$25,405",22 MPG,4.4 ,4.4 
+545,Certified 2019 Hyundai Ioniq Electric Hatchback,"$25,500",136 MPGe,4.4 ,4.3 
+546,Certified 2018 Ram 1500 Quad Cab Pickup,"$25,689",17 MPG,4.4 ,4.6 
+547,Certified 2017 Genesis G80 Sedan,"$25,742",19 MPG,4.4 ,4.7 
+548,Certified 2017 Toyota Tacoma Double Cab Pickup,"$25,800",20 MPG,4.4 ,4.3 
+549,Certified 2019 Chevrolet Traverse SUV,"$26,050",21 MPG,4.4 ,4.3 
+550,Certified 2019 Volkswagen Atlas SUV,"$26,300",24 MPG,4.4 ,4.1 
+551,Certified 2019 Kia Stinger Sedan,"$26,332",24 MPG,4.4 ,4.6 
+552,Certified 2019 Chevrolet Blazer SUV,"$26,500",24 MPG,4.4 ,4.4 
+553,Certified 2019 Chevrolet Silverado 1500 Regular Cab Pickup,"$26,750",17 MPG,4.4 ,3.6 
+554,Certified 2018 Toyota Tacoma Double Cab Pickup,"$27,000",20 MPG,4.4 ,4.3 
+555,Certified 2018 Toyota Highlander SUV,"$27,650",22 MPG,4.4 ,4.3 
+556,Certified 2018 Toyota Highlander Hybrid SUV,"$27,850",29 MPG,4.4 ,4.5 
+557,Certified 2019 Ram 1500 Classic Crew Cab Pickup,"$27,900",17 MPG,4.4 ,4.6 
+558,Certified 2019 Ford F150 Super Cab Pickup,"$28,893",18 MPG,4.4 ,4.6 
+559,Certified 2019 Chevrolet Silverado 1500 Double Cab Pickup,"$28,913",17 MPG,4.4 ,3.6 
+560,Certified 2018 Lexus NX SUV,"$29,352",24 MPG,4.4 ,4.4 
+561,Certified 2019 Jeep Wrangler SUV,"$30,184",20 MPG,4.4 ,4.8 
+562,Certified 2019 Chevrolet Silverado 1500 Crew Cab Pickup,"$30,541",18 MPG,4.4 ,3.6 
+563,Certified 2019 Toyota Highlander SUV,"$30,828",22 MPG,4.4 ,4.3 
+564,Certified 2019 Ford F150 SuperCrew Cab Pickup,"$31,012",17 MPG,4.4 ,4.6 
+565,Certified 2019 Cadillac XT4 SUV,"$31,406",24 MPG,4.4 ,4.9 
+566,Certified 2019 Toyota Highlander Hybrid SUV,"$31,450",29 MPG,4.4 ,4.5 
+567,Certified 2016 Mercedes‑Benz Mercedes‑AMG GLA SUV,"$32,248",25 MPG,4.4 ,4.4 
+568,Certified 2019 INFINITI QX50 SUV,"$32,250",26 MPG,4.4 ,4.4 
+569,Certified 2019 Jeep Wrangler Unlimited SUV,"$32,400",19 MPG,4.4 ,4.8 
+570,Certified 2017 GMC Yukon XL SUV,"$33,900",18 MPG,4.4 ,3.9 
+571,Certified 2017 Volvo V90 Wagon,"$34,207",25 MPG,4.4 ,4.8 
+572,Certified 2019 Lexus NX SUV,"$34,461",24 MPG,4.4 ,4.4 
+573,Certified 2016 Land Rover Range Rover Sport SUV,"$35,000",19 MPG,4.4 ,4.4 
+574,Certified 2017 GMC Yukon SUV,"$35,914",18 MPG,4.4 ,3.9 
+575,Certified 2018 Volvo XC60 SUV,"$36,063",24 MPG,4.4 ,3.7 
+576,Certified 2018 BMW X3 SUV,"$36,362",25 MPG,4.4 ,4.1 
+577,Certified 2019 Genesis G80 Sedan,"$36,500",20 MPG,4.4 ,4.7 
+578,Certified 2018 Lexus GS Sedan,"$36,738",26 MPG,4.4 ,4.7 
+579,Certified 2017 Audi SQ5 SUV,"$37,049",19 MPG,4.4 ,4.7 
+580,Certified 2019 BMW X3 SUV,"$37,951",26 MPG,4.4 ,4.1 
+581,Certified 2018 GMC Yukon SUV,"$39,625",18 MPG,4.4 ,3.9 
+582,Certified 2018 GMC Yukon XL SUV,"$40,150",18 MPG,4.4 ,3.9 
+583,Certified 2017 Land Rover Range Rover Sport SUV,"$41,300",19 MPG,4.4 ,4.4 
+584,Certified 2016 Mercedes‑Benz GLE Coupe SUV,"$42,700",20 MPG,4.4 ,4.6 
+585,Certified 2018 Jaguar F‑TYPE Coupe,"$43,413",26 MPG,4.4 ,4.9 
+586,Certified 2019 Lexus GS Sedan,"$43,550",26 MPG,4.4 ,4.7 
+587,Certified 2018 BMW 6 Series Sedan,"$44,550",23 MPG,4.4 ,4.7 
+588,Certified 2018 Porsche Cayenne SUV,"$45,930",20 MPG,4.4 ,4.5 
+589,Certified 2017 Mercedes‑Benz Mercedes‑AMG GLE Coupe SUV,"$49,524",20 MPG,4.4 ,4.6 
+590,Certified 2016 Mercedes‑Benz Mercedes‑AMG GLE Coupe SUV,"$58,850",15 MPG,4.4 ,4.6 
+591,New 2020 Hyundai Accent Sedan,"$16,270",33 MPG,4.3 ,5 
+592,New 2020 Kia Rio Sedan,"$16,815",36 MPG,4.3 ,5 
+593,New 2020 Subaru Impreza Sedan,"$19,595",26 MPG,4.3 ,4.1 
+594,New 2020 Volkswagen Tiguan SUV,"$25,965",25 MPG,4.3 ,4.6 
+595,New 2020 Chevrolet Camaro Coupe,"$25,995",23 MPG,4.3 ,4.5 
+596,New 2020 Ford Escape SUV,"$26,080",30 MPG,4.3 ,5 
+597,New 2020 Nissan Rogue SUV,"$26,395",29 MPG,4.3 ,4.3 
+598,New 2020 Toyota Tacoma Access Cab Pickup,"$27,170",21 MPG,4.3 ,4.3 
+599,New 2020 Toyota Tacoma Double Cab Pickup,"$28,000",21 MPG,4.3 ,4.3 
+600,New 2020 Subaru WRX Sedan,"$28,395",23 MPG,4.3 ,4.6 
+601,New 2020 Kia Sedona Van/Minivan,"$28,720",21 MPG,4.3 ,4.3 
+602,New 2020 Chevrolet Blazer SUV,"$29,995",23 MPG,4.3 ,4.4 
+603,New 2020 Jeep Grand Cherokee SUV,"$33,540",21 MPG,4.3 ,4.4 
+604,New 2020 Acura TLX Sedan,"$34,025",27 MPG,4.3 ,4.3 
+605,New 2020 Chevrolet Silverado 1500 Crew Cab Pickup,"$36,195",17 MPG,4.3 ,3.6 
+606,New 2020 Cadillac XT4 SUV,"$36,690",26 MPG,4.3 ,4.9 
+607,New 2020 GMC Sierra 1500 Crew Cab Pickup,"$37,495",17 MPG,4.3 ,3.7 
+608,New 2019 Chevrolet Sonic Sedan,"$16,295",31 MPG,4.3 ,4.3 
+609,New 2019 Nissan Versa Note Hatchback,"$16,545",34 MPG,4.3 ,3.9 
+610,New 2019 GMC Sierra 1500 Regular Cab Pickup,"$31,095",17 MPG,4.3 ,3.7 
+611,New 2019 Kia Soul EV Wagon,"$34,945",108 MPGe,4.3 ,4.8 
+612,New 2019 GMC Sierra 1500 Double Cab Pickup,"$34,995",17 MPG,4.3 ,3.7 
+613,New 2019 GMC Sierra 1500 Limited Double Cab Pickup,"$36,595",17 MPG,4.3 ,3.7 
+614,New 2019 Mercedes‑Benz Mercedes‑AMG GLA SUV,"$54,345",25 MPG,4.3 ,4.4 
+615,New 2019 Mercedes‑Benz Mercedes‑AMG GLE Coupe SUV,"$72,345",19 MPG,4.3 ,4.6 
+616,Certified 2015 Ford Focus Sedan,"$8,650",30 MPG,4.3 ,3.8 
+617,Certified 2016 Kia Rio Sedan,"$9,150",31 MPG,4.3 ,4.3 
+618,Used 2015 Hyundai Elantra Sedan,"$9,350",31 MPG,4.3 ,4.2 
+619,Used 2015 Hyundai Elantra GT Hatchback,"$10,000",27 MPG,4.3 ,4.2 
+620,Certified 2017 Kia Rio Sedan,"$10,063",30 MPG,4.3 ,4.3 
+621,Certified 2016 Nissan LEAF Hatchback,"$10,635",114 MPGe,4.3 ,4.6 
+622,Used 2015 Kia Optima Hybrid Sedan,"$10,789",38 MPG,4.3 ,4.8 
+623,Certified 2016 Kia Forte5 Hatchback,"$11,013",28 MPG,4.3 ,4.6 
+624,Used 2015 Kia Optima Sedan,"$11,058",27 MPG,4.3 ,4.7 
+625,Certified 2015 Toyota Corolla Sedan,"$11,210",32 MPG,4.3 ,4.2 
+626,Certified 2018 Chevrolet Sonic Sedan,"$11,538",28 MPG,4.3 ,4.3 
+627,Certified 2015 Ford Fusion Sedan,"$11,557",25 MPG,4.3 ,4.5 
+628,Certified 2016 Kia Forte Sedan,"$11,567",30 MPG,4.3 ,4.6 
+629,Certified 2017 Chevrolet Cruze Sedan,"$11,755",32 MPG,4.3 ,4.4 
+630,Certified 2018 Nissan Versa Note Hatchback,"$11,765",34 MPG,4.3 ,3.9 
+631,Used 2014 Chrysler 300 Sedan,"$11,770",21 MPG,4.3 ,4.8 
+632,Certified 2017 Nissan LEAF Hatchback,"$11,943",112 MPGe,4.3 ,4.6 
+633,Certified 2015 Nissan Quest Van/Minivan,"$12,117",22 MPG,4.3 ,4.6 
+634,Certified 2016 Toyota Corolla Sedan,"$12,411",32 MPG,4.3 ,4.2 
+635,Certified 2018 Chevrolet Cruze Sedan,"$12,550",32 MPG,4.3 ,4.4 
+636,Used 2015 Kia Sorento SUV,"$12,584",20 MPG,4.3 ,4.3 
+637,Certified 2018 Kia Rio Sedan,"$12,627",32 MPG,4.3 ,5 
+638,Certified 2015 Chevrolet Colorado Extended Cab Pickup,"$12,687",22 MPG,4.3 ,4.4 
+639,Certified 2017 Kia Forte Sedan,"$13,080",28 MPG,4.3 ,4.6 
+640,Certified 2016 Kia Forte Koup Coupe,"$13,261",28 MPG,4.3 ,4.6 
+641,Certified 2016 Nissan Rogue SUV,"$13,551",28 MPG,4.3 ,4.3 
+642,Certified 2017 Kia Forte5 Hatchback,"$13,563",28 MPG,4.3 ,4.6 
+643,Certified 2015 Ford Fusion Energi Sedan,"$13,621",38 MPG | 88 MPGe,4.3 ,4.7 
+644,Certified 2017 Kia Soul Wagon,"$13,638",27 MPG,4.3 ,4.5 
+645,Certified 2018 Kia Soul Wagon,"$14,135",27 MPG,4.3 ,4.5 
+646,Certified 2019 Kia Rio Sedan,"$14,148",32 MPG,4.3 ,5 
+647,Certified 2019 Hyundai Accent Sedan,"$14,237",31 MPG,4.3 ,5 
+648,Certified 2015 Nissan Pathfinder SUV,"$14,450",22 MPG,4.3 ,4 
+649,Certified 2016 GMC Canyon Extended Cab Pickup,"$14,484",22 MPG,4.3 ,4.6 
+650,Certified 2015 Ford Focus ST Hatchback,"$14,493",26 MPG,4.3 ,3.8 
+651,Certified 2016 Chevrolet Colorado Extended Cab Pickup,"$14,500",22 MPG,4.3 ,4.4 
+652,Certified 2017 MAZDA CX‑3 SUV,"$14,532",29 MPG,4.3 ,4.7 
+653,Certified 2019 Kia Soul Wagon,"$14,979",27 MPG,4.3 ,4.5 
+654,Certified 2016 Kia Sorento SUV,"$15,150",24 MPG,4.3 ,4.6 
+655,Certified 2017 GMC Canyon Extended Cab Pickup,"$15,400",22 MPG,4.3 ,4.6 
+656,Certified 2017 Kia Soul EV Wagon,"$15,500",105 MPGe,4.3 ,4.8 
+657,Certified 2015 Chevrolet Silverado 1500 Regular Cab Pickup,"$15,923",18 MPG,4.3 ,4.4 
+658,Certified 2016 Nissan Pathfinder SUV,"$16,000",22 MPG,4.3 ,4 
+659,Certified 2017 Hyundai Tucson SUV,"$16,127",23 MPG,4.3 ,4.3 
+660,Certified 2016 Chevrolet Silverado 1500 Regular Cab Pickup,"$16,380",18 MPG,4.3 ,4.4 
+661,Certified 2016 Volvo S60 Sedan,"$16,649",23 MPG,4.3 ,4.6 
+662,Certified 2018 MAZDA CX‑3 SUV,"$16,794",29 MPG,4.3 ,4.7 
+663,Certified 2018 Subaru Impreza Wagon,"$17,016",26 MPG,4.3 ,4.1 
+664,Used 2014 Acura MDX SUV,"$17,050",23 MPG,4.3 ,4.1 
+665,Certified 2017 Volkswagen Golf Alltrack Wagon,"$17,072",25 MPG,4.3 ,4.9 
+666,Certified 2018 Nissan Rogue SUV,"$17,151",27 MPG,4.3 ,4.3 
+667,Certified 2018 Hyundai Tucson SUV,"$17,200",23 MPG,4.3 ,4.3 
+668,Certified 2015 Chevrolet Colorado Crew Cab Pickup,"$17,235",20 MPG,4.3 ,4.4 
+669,Used 2015 Chevrolet Silverado 1500 Double Cab Pickup,"$17,583",18 MPG,4.3 ,4.4 
+670,Certified 2017 Volvo S60 Sedan,"$17,876",26 MPG,4.3 ,4.6 
+671,Certified 2018 Volkswagen Tiguan SUV,"$18,108",24 MPG,4.3 ,4.6 
+672,Certified 2015 Chevrolet Silverado 1500 Crew Cab Pickup,"$18,412",18 MPG,4.3 ,4.4 
+673,Certified 2018 Acura ILX Sedan,"$18,576",29 MPG,4.3 ,4.4 
+674,Certified 2017 Subaru Outback SUV,"$18,714",28 MPG,4.3 ,4.5 
+675,Certified 2019 Subaru Impreza Sedan,"$18,772",27 MPG,4.3 ,4.1 
+676,Certified 2016 Chevrolet Colorado Crew Cab Pickup,"$18,856",20 MPG,4.3 ,4.4 
+677,Certified 2017 Acura TLX Sedan,"$18,868",28 MPG,4.3 ,4.3 
+678,Certified 2016 GMC Canyon Crew Cab Pickup,"$19,030",21 MPG,4.3 ,4.6 
+679,Certified 2016 Buick Enclave SUV,"$19,284",18 MPG,4.3 ,4.5 
+680,Certified 2018 Kia Soul EV Wagon,"$19,300",108 MPGe,4.3 ,4.8 
+681,Certified 2017 GMC Canyon Crew Cab Pickup,"$19,800",22 MPG,4.3 ,4.6 
+682,Certified 2016 Chevrolet Silverado 1500 Double Cab Pickup,"$19,872",18 MPG,4.3 ,4.4 
+683,Certified 2018 Kia Sedona Van/Minivan,"$20,414",20 MPG,4.3 ,4.3 
+684,Certified 2016 Cadillac CTS Sedan,"$20,833",24 MPG,4.3 ,4.7 
+685,Certified 2017 Buick Enclave SUV,"$20,946",18 MPG,4.3 ,4.5 
+686,Certified 2018 Subaru Outback SUV,"$21,264",28 MPG,4.3 ,4.5 
+687,Certified 2016 Chevrolet Silverado 1500 Crew Cab Pickup,"$21,311",18 MPG,4.3 ,4.4 
+688,Certified 2019 Chevrolet Camaro Coupe,"$21,693",23 MPG,4.3 ,4.5 
+689,Certified 2019 Nissan Rogue SUV,"$21,774",27 MPG,4.3 ,4.3 
+690,Certified 2019 Volkswagen Tiguan SUV,"$21,881",24 MPG,4.3 ,4.6 
+691,Certified 2016 Lexus ES Sedan,"$21,897",40 MPG,4.3 ,4.6 
+692,Certified 2019 Kia Sedona Van/Minivan,"$21,919",21 MPG,4.3 ,4.3 
+693,Certified 2019 Toyota Tacoma Access Cab Pickup,"$22,500",20 MPG,4.3 ,4.3 
+694,Certified 2017 Nissan 370Z Coupe,"$22,754",21 MPG,4.3 ,4.8 
+695,Certified 2017 Mercedes‑Benz GLA SUV,"$23,242",26 MPG,4.3 ,4.4 
+696,Certified 2018 Jeep Grand Cherokee SUV,"$23,900",21 MPG,4.3 ,4.4 
+697,Certified 2019 Subaru WRX Sedan,"$24,556",23 MPG,4.3 ,4.6 
+698,Certified 2016 INFINITI QX60 SUV,"$24,900",22 MPG,4.3 ,4.1 
+699,Certified 2018 Honda Ridgeline Pickup,"$25,100",22 MPG,4.3 ,4.8 
+700,Certified 2019 Honda Ridgeline Pickup,"$25,500",22 MPG,4.3 ,4.8 
+701,Certified 2017 Cadillac CTS Sedan,"$25,654",24 MPG,4.3 ,4.7 
+702,Certified 2019 Acura TLX Sedan,"$25,976",27 MPG,4.3 ,4.3 
+703,Certified 2018 Nissan 370Z Coupe,"$26,135",21 MPG,4.3 ,4.8 
+704,Certified 2018 Mercedes‑Benz GLA SUV,"$26,923",27 MPG,4.3 ,4.4 
+705,Certified 2019 Jeep Grand Cherokee SUV,"$27,300",21 MPG,4.3 ,4.4 
+706,Certified 2017 Cadillac CT6 Sedan,"$28,757",25 MPG,4.3 ,3.7 
+707,Certified 2018 Genesis G80 Sedan,"$29,228",20 MPG,4.3 ,4.7 
+708,Certified 2019 Toyota Tacoma Double Cab Pickup,"$29,500",20 MPG,4.3 ,4.3 
+709,Certified 2019 GMC Sierra 1500 Crew Cab Pickup,"$31,000",17 MPG,4.3 ,3.7 
+710,Certified 2019 Mercedes‑Benz GLA SUV,"$31,578",27 MPG,4.3 ,4.4 
+711,Certified 2017 Chevrolet Suburban SUV,"$32,514",18 MPG,4.3 ,4.1 
+712,Certified 2016 Chevrolet SS Sedan,"$33,209",16 MPG,4.3 ,4.8 
+713,Certified 2017 Audi TT Coupe,"$34,524",25 MPG,4.3 ,5 
+714,Certified 2017 Mercedes‑Benz Mercedes‑AMG GLA SUV,"$35,118",25 MPG,4.3 ,4.4 
+715,Certified 2016 Porsche Macan SUV,"$35,521",19 MPG,4.3 ,4.7 
+716,Certified 2018 Volvo V90 Wagon,"$36,428",26 MPG,4.3 ,4.8 
+717,Certified 2018 Chevrolet Suburban SUV,"$37,250",18 MPG,4.3 ,4.1 
+718,Certified 2018 Audi TT Coupe,"$38,483",26 MPG,4.3 ,5 
+719,Certified 2019 Volvo V90 Wagon,"$39,145",27 MPG,4.3 ,4.8 
+720,Certified 2019 Volvo XC60 SUV,"$39,645",23 MPG,4.3 ,3.7 
+721,Certified 2019 Chevrolet Suburban SUV,"$39,800",16 MPG,4.3 ,4.1 
+722,Certified 2019 Audi TT Coupe,"$40,804",26 MPG,4.3 ,5 
+723,Certified 2018 Mercedes‑Benz Mercedes‑AMG GLA SUV,"$40,900",25 MPG,4.3 ,4.4 
+724,Certified 2019 GMC Yukon XL SUV,"$41,500",16 MPG,4.3 ,3.9 
+725,Certified 2018 Land Rover Range Rover Velar SUV,"$43,400",23 MPG,4.3 ,4 
+726,Certified 2019 GMC Yukon SUV,"$43,600",17 MPG,4.3 ,3.9 
+727,Certified 2020 Chevrolet Suburban SUV,"$50,100",16 MPG,4.3 ,4.1 
+728,Certified 2016 Cadillac CTS‑V Sedan,"$54,911",17 MPG,4.3 ,5 
+729,Certified 2018 Land Rover Range Rover Sport SUV,"$55,100",19 MPG,4.3 ,4.4 
+730,Certified 2018 Mercedes‑Benz Mercedes‑AMG GLE Coupe SUV,"$55,100",19 MPG,4.3 ,4.6 
+731,Certified 2019 Land Rover Range Rover Sport SUV,"$58,000",19 MPG,4.3 ,4.4 
+732,Certified 2017 Cadillac CTS‑V Sedan,"$59,466",17 MPG,4.3 ,5 
+733,New 2020 Hyundai Tucson SUV,"$24,690",25 MPG,4.2 ,4.3 
+734,New 2020 Nissan 370Z Coupe,"$31,015",20 MPG,4.2 ,4.8 
+735,New 2020 Lincoln Corsair SUV,"$36,940",25 MPG,4.2 ,5 
+736,New 2020 INFINITI QX60 SUV,"$45,375",22 MPG,4.2 ,4.1 
+737,New 2020 Porsche Macan SUV,"$52,250",21 MPG,4.2 ,4.7 
+738,New 2020 Land Rover Range Rover Velar SUV,"$57,325",23 MPG,4.2 ,4 
+739,New 2019 Ford Fiesta Sedan,"$15,235",30 MPG,4.2 ,3.9 
+740,New 2019 Chevrolet Cruze Sedan,"$18,870",33 MPG,4.2 ,4.4 
+741,New 2019 GMC Canyon Extended Cab Pickup,"$22,595",22 MPG,4.2 ,4.6 
+742,New 2019 Volkswagen Golf Alltrack Wagon,"$27,790",24 MPG,4.2 ,4.9 
+743,New 2019 Chevrolet Silverado 1500 LD Double Cab Pickup,"$35,995",17 MPG,4.2 ,4.4 
+744,New 2019 Cadillac CTS Sedan,"$47,990",25 MPG,4.2 ,4.7 
+745,New 2019 Cadillac CTS‑V Sedan,"$87,990",16 MPG,4.2 ,5 
+746,Certified 2015 Nissan Sentra Sedan,"$8,539",30 MPG,4.2 ,3.8 
+747,Certified 2014 MAZDA MAZDA3 Sedan,"$9,018",33 MPG,4.2 ,4.7 
+748,Used 2014 Nissan Altima Sedan,"$9,134",31 MPG,4.2 ,4.2 
+749,Certified 2014 MAZDA MAZDA6 Sedan,"$10,256",29 MPG,4.2 ,4.8 
+750,Certified 2016 Nissan Sentra Sedan,"$10,294",34 MPG,4.2 ,3.8 
+751,Certified 2018 Ford Fiesta Sedan,"$10,358",30 MPG,4.2 ,3.9 
+752,Certified 2016 Ford Focus Sedan,"$10,379",30 MPG,4.2 ,3.8 
+753,Certified 2016 Volkswagen Jetta Sedan,"$10,689",32 MPG,4.2 ,4.4 
+754,Certified 2016 Hyundai Elantra Sedan,"$10,960",31 MPG,4.2 ,4.2 
+755,Certified 2016 Volkswagen Golf Hatchback,"$11,318",29 MPG,4.2 ,4.7 
+756,Certified 2015 Nissan JUKE SUV,"$11,340",28 MPG,4.2 ,4.4 
+757,Certified 2017 Ford Focus Sedan,"$11,407",28 MPG,4.2 ,3.8 
+758,Certified 2015 Subaru Legacy Sedan,"$11,662",30 MPG,4.2 ,4.4 
+759,Certified 2016 Hyundai Elantra GT Hatchback,"$12,008",27 MPG,4.2 ,4.2 
+760,Certified 2016 Ford Fusion Sedan,"$12,200",42 MPG,4.2 ,4.5 
+761,Certified 2016 Volkswagen Passat Sedan,"$12,255",29 MPG,4.2 ,4.5 
+762,Used 2015 Jeep Renegade SUV,"$12,298",24 MPG,4.2 ,4 
+763,Certified 2016 Volkswagen e‑Golf Hatchback,"$12,429",116 MPGe,4.2 ,5 
+764,Certified 2016 Nissan JUKE SUV,"$12,545",28 MPG,4.2 ,4.4 
+765,Certified 2016 Chevrolet Malibu Sedan,"$12,665",31 MPG,4.2 ,4 
+766,Certified 2016 Buick Verano Sedan,"$12,711",25 MPG,4.2 ,4.6 
+767,Certified 2016 Nissan Quest Van/Minivan,"$13,026",23 MPG,4.2 ,4.6 
+768,Used 2015 Chrysler 300 Sedan,"$13,040",21 MPG,4.2 ,4.8 
+769,Used 2014 Toyota Avalon Sedan,"$13,148",25 MPG,4.2 ,4.4 
+770,Certified 2017 Buick Verano Sedan,"$13,180",24 MPG,4.2 ,4.6 
+771,Certified 2016 Subaru Legacy Sedan,"$13,474",30 MPG,4.2 ,4.4 
+772,Certified 2016 Toyota Prius c Hatchback,"$13,531",50 MPG,4.2 ,4.8 
+773,Certified 2017 Toyota Corolla Sedan,"$13,663",32 MPG,4.2 ,4.2 
+774,Certified 2017 Ford Fusion Sedan,"$13,752",42 MPG,4.2 ,4.5 
+775,Used 2015 Hyundai Santa Fe SUV,"$14,022",20 MPG,4.2 ,4.7 
+776,Certified 2016 Jeep Renegade SUV,"$14,112",24 MPG,4.2 ,4 
+777,Certified 2017 Volkswagen Golf Hatchback,"$14,190",29 MPG,4.2 ,4.7 
+778,Certified 2018 Kia Forte Sedan,"$14,254",32 MPG,4.2 ,4.6 
+779,Certified 2017 Nissan Quest Van/Minivan,"$14,543",22 MPG,4.2 ,4.6 
+780,Certified 2018 Kia Forte5 Hatchback,"$14,617",28 MPG,4.2 ,4.6 
+781,Certified 2016 Ford Fusion Energi Sedan,"$14,745",38 MPG | 88 MPGe,4.2 ,4.7 
+782,Certified 2018 Toyota Corolla Sedan,"$14,927",31 MPG,4.2 ,4.2 
+783,Certified 2017 Chevrolet Colorado Extended Cab Pickup,"$14,950",22 MPG,4.2 ,4.4 
+784,Used 2014 BMW 5 Series Sedan,"$15,028",27 MPG,4.2 ,4.3 
+785,Used 2014 Audi A5 Coupe,"$15,154",24 MPG,4.2 ,4.7 
+786,Certified 2017 Toyota Prius c Hatchback,"$15,300",46 MPG,4.2 ,4.8 
+787,Certified 2015 GMC Sierra 1500 Regular Cab Pickup,"$15,552",18 MPG,4.2 ,4.3 
+788,Certified 2015 Toyota Avalon Sedan,"$15,585",24 MPG,4.2 ,4.4 
+789,Certified 2018 Chevrolet Colorado Extended Cab Pickup,"$15,700",22 MPG,4.2 ,4.4 
+790,Certified 2016 Volkswagen Golf GTI Hatchback,"$15,828",28 MPG,4.2 ,4.6 
+791,Used 2016 Lincoln MKC SUV,"$15,880",22 MPG,4.2 ,4.6 
+792,Certified 2017 Kia Sorento SUV,"$15,947",24 MPG,4.2 ,4.6 
+793,Certified 2015 Nissan Murano SUV,"$15,950",24 MPG,4.2 ,4.6 
+794,Used 2014 Lexus ES Sedan,"$15,998",24 MPG,4.2 ,4.6 
+795,Certified 2018 GMC Canyon Extended Cab Pickup,"$16,100",22 MPG,4.2 ,4.6 
+796,Certified 2017 Ford Fusion Energi Sedan,"$16,927",42 MPG | 97 MPGe,4.2 ,4.7 
+797,Certified 2016 Buick Cascada Convertible,"$17,120",23 MPG,4.2 ,4.6 
+798,Certified 2016 Volvo XC60 SUV,"$17,237",22 MPG,4.2 ,4.4 
+799,Certified 2017 Chevrolet Silverado 1500 Regular Cab Pickup,"$17,417",18 MPG,4.2 ,4.4 
+800,Certified 2019 MAZDA CX‑3 SUV,"$17,429",29 MPG,4.2 ,4.7 
+801,Certified 2016 Nissan Murano SUV,"$17,550",24 MPG,4.2 ,4.6 
+802,Certified 2017 Volkswagen Golf GTI Hatchback,"$17,889",27 MPG,4.2 ,4.6 
+803,Certified 2018 Kia Sorento SUV,"$18,200",24 MPG,4.2 ,4.6 
+804,Certified 2016 Dodge Challenger Coupe,"$18,410",23 MPG,4.2 ,4.8 
+805,Certified 2017 Nissan Pathfinder SUV,"$18,550",22 MPG,4.2 ,4 
+806,Certified 2016 MAZDA CX‑9 SUV,"$18,590",23 MPG,4.2 ,4.9 
+807,Used 2016 BMW 4 Series Coupe,"$19,019",26 MPG,4.2 ,4.8 
+808,Certified 2016 Audi A5 Coupe,"$19,659",25 MPG,4.2 ,4.7 
+809,Certified 2017 Chevrolet Colorado Crew Cab Pickup,"$19,900",10 MPG,4.2 ,4.4 
+810,Certified 2015 Acura MDX SUV,"$19,950",23 MPG,4.2 ,4.1 
+811,Certified 2018 Volkswagen Golf Alltrack Wagon,"$20,100",24 MPG,4.2 ,4.9 
+812,Certified 2019 Hyundai Tucson SUV,"$20,192",23 MPG,4.2 ,4.3 
+813,Certified 2017 Volkswagen e‑Golf Hatchback,"$20,275",119 MPGe,4.2 ,5 
+814,Certified 2018 Chevrolet Colorado Crew Cab Pickup,"$20,300",19 MPG,4.2 ,4.4 
+815,Certified 2018 Chevrolet Silverado 1500 Regular Cab Pickup,"$20,318",18 MPG,4.2 ,4.4 
+816,Used 2015 GMC Sierra 1500 Double Cab Pickup,"$20,853",18 MPG,4.2 ,4.3 
+817,Certified 2017 GMC Acadia SUV,"$20,882",23 MPG,4.2 ,3.9 
+818,Certified 2018 Nissan Pathfinder SUV,"$21,347",22 MPG,4.2 ,4 
+819,Certified 2015 GMC Sierra 1500 Crew Cab Pickup,"$21,386",18 MPG,4.2 ,4.3 
+820,Certified 2018 GMC Canyon Crew Cab Pickup,"$21,600",20 MPG,4.2 ,4.6 
+821,Certified 2017 Chevrolet Silverado 1500 Double Cab Pickup,"$22,215",18 MPG,4.2 ,4.4 
+822,Certified 2017 Chevrolet Silverado 1500 Crew Cab Pickup,"$22,312",18 MPG,4.2 ,4.4 
+823,Certified 2018 GMC Acadia SUV,"$22,458",23 MPG,4.2 ,3.9 
+824,Certified 2018 Chevrolet Silverado 1500 Double Cab Pickup,"$22,871",18 MPG,4.2 ,4.4 
+825,Certified 2018 Volvo S60 Sedan,"$22,954",26 MPG,4.2 ,4.6 
+826,Used 2014 Audi S5 Coupe,"$23,230",20 MPG,4.2 ,4.9 
+827,Certified 2017 Volvo XC60 SUV,"$23,892",26 MPG,4.2 ,4.4 
+828,Certified 2019 GMC Canyon Crew Cab Pickup,"$24,000",20 MPG,4.2 ,4.6 
+829,Certified 2016 Volvo XC70 Wagon,"$24,038",22 MPG,4.2 ,4.6 
+830,Certified 2019 Nissan Pathfinder SUV,"$24,200",22 MPG,4.2 ,4 
+831,Certified 2016 Volkswagen Golf R Hatchback,"$24,705",25 MPG,4.2 ,4.9 
+832,Certified 2018 Chevrolet Silverado 1500 Crew Cab Pickup,"$25,100",18 MPG,4.2 ,4.4 
+833,Certified 2019 Subaru Outback SUV,"$25,700",28 MPG,4.2 ,4.5 
+834,Certified 2017 Nissan Armada SUV,"$25,783",15 MPG,4.2 ,4.8 
+835,Certified 2017 BMW 4 Series Coupe,"$26,206",25 MPG,4.2 ,4.8 
+836,Certified 2017 INFINITI QX60 SUV,"$28,650",22 MPG,4.2 ,4.1 
+837,Certified 2019 Nissan 370Z Coupe,"$29,052",20 MPG,4.2 ,4.8 
+838,Certified 2017 Volkswagen Golf R Hatchback,"$29,301",25 MPG,4.2 ,4.9 
+839,Certified 2018 INFINITI QX60 SUV,"$30,350",22 MPG,4.2 ,4.1 
+840,Certified 2018 Cadillac CTS Sedan,"$30,823",24 MPG,4.2 ,4.7 
+841,Certified 2017 Jaguar F‑PACE SUV,"$30,832",29 MPG,4.2 ,4.7 
+842,Certified 2016 Audi S5 Coupe,"$32,403",20 MPG,4.2 ,4.9 
+843,Certified 2017 Chevrolet SS Sedan,"$35,676",16 MPG,4.2 ,4.8 
+844,Certified 2018 Cadillac CT6 Sedan,"$36,148",25 MPG,4.2 ,3.7 
+845,Certified 2017 Porsche Macan SUV,"$37,461",22 MPG,4.2 ,4.7 
+846,Certified 2018 Porsche Macan SUV,"$43,376",22 MPG,4.2 ,4.7 
+847,Certified 2016 BMW M4 Convertible,"$43,600",19 MPG,4.2 ,5 
+848,Certified 2017 Maserati Levante SUV,"$43,750",16 MPG,4.2 ,5 
+849,Certified 2019 Land Rover Range Rover Velar SUV,"$44,500",23 MPG,4.2 ,4 
+850,Certified 2018 Maserati Levante SUV,"$47,600",16 MPG,4.2 ,5 
+851,Certified 2017 BMW M4 Convertible,"$49,700",19 MPG,4.2 ,5 
+852,Certified 2019 Porsche Macan SUV,"$55,099",21 MPG,4.2 ,4.7 
+853,Certified 2018 Cadillac CTS‑V Sedan,"$65,057",17 MPG,4.2 ,5 
+854,New 2020 Chevrolet Malibu Sedan,"$22,970",32 MPG,4.1 ,4 
+855,New 2020 Ford Fusion Sedan,"$24,365",24 MPG,4.1 ,4.5 
+856,New 2020 Chevrolet Colorado Crew Cab Pickup,"$27,795",20 MPG,4.1 ,4.4 
+857,New 2020 Kia Sorento SUV,"$28,110",25 MPG,4.1 ,4.6 
+858,New 2020 GMC Acadia SUV,"$30,995",23 MPG,4.1 ,3.9 
+859,New 2020 Nissan Murano SUV,"$32,625",23 MPG,4.1 ,4.6 
+860,New 2020 Nissan Pathfinder SUV,"$32,775",23 MPG,4.1 ,4 
+861,New 2020 Ford Explorer SUV,"$34,010",24 MPG,4.1 ,4.1 
+862,New 2020 Cadillac CT5 Sedan,"$37,890",25 MPG,4.1 ,5 
+863,New 2020 Jaguar F‑PACE SUV,"$46,225",24 MPG,4.1 ,4.7 
+864,New 2020 Lincoln Aviator SUV,"$52,195",21 MPG,4.1 ,5 
+865,New 2019 Toyota Prius c Hatchback,"$22,485",46 MPG,4.1 ,4.8 
+866,New 2019 Volkswagen Golf SportWagen Wagon,"$22,790",32 MPG,4.1 ,4.8 
+867,New 2019 Volkswagen e‑Golf Hatchback,"$32,790",119 MPGe,4.1 ,5 
+868,New 2019 Ford Fusion Energi Sedan,"$35,490",42 MPG | 103 MPGe,4.1 ,4.7 
+869,New 2019 Volkswagen Golf R Hatchback,"$41,290",24 MPG,4.1 ,4.9 
+870,New 2019 Alfa Romeo Stelvio SUV,"$41,590",25 MPG,4.1 ,4.8 
+871,New 2019 BMW M4 Coupe,"$70,145",19 MPG,4.1 ,5 
+872,New 2019 Maserati Levante SUV,"$78,385",17 MPG,4.1 ,5 
+873,Certified 2015 Toyota Yaris Hatchback,"$8,686",32 MPG,4.1 ,4.6 
+874,Used 2014 MAZDA CX‑5 SUV,"$10,335",28 MPG,4.1 ,4.6 
+875,Certified 2015 Toyota Prius c Hatchback,"$11,087",50 MPG,4.1 ,4.8 
+876,Certified 2015 Nissan Altima Sedan,"$11,182",31 MPG,4.1 ,4.2 
+877,Used 2014 Honda Accord Coupe,"$11,307",28 MPG,4.1 ,4.4 
+878,Certified 2015 Subaru Impreza Sedan,"$11,519",28 MPG,4.1 ,4.4 
+879,Used 2015 Nissan NV200 Van/Minivan,"$11,769",24 MPG,4.1 ,3.4 
+880,Used 2015 Kia Sportage SUV,"$12,107",22 MPG,4.1 ,4.5 
+881,Certified 2017 Volkswagen Jetta Sedan,"$12,156",32 MPG,4.1 ,4.4 
+882,Used 2015 Hyundai Tucson SUV,"$12,223",22 MPG,4.1 ,4.2 
+883,Certified 2016 Subaru Impreza Sedan,"$12,362",28 MPG,4.1 ,4.4 
+884,Certified 2016 Buick Encore SUV,"$12,376",26 MPG,4.1 ,4.4 
+885,Used 2014 BMW 3 Series Sedan,"$12,640",27 MPG,4.1 ,4.5 
+886,Certified 2018 Ford Focus Sedan,"$12,659",28 MPG,4.1 ,3.8 
+887,Certified 2017 Nissan Sentra Sedan,"$12,769",30 MPG,4.1 ,3.8 
+888,Used 2016 Kia Sportage SUV,"$12,852",22 MPG,4.1 ,4.5 
+889,Certified 2016 Honda CR‑Z Coupe,"$12,856",34 MPG,4.1 ,4.7 
+890,Certified 2016 Nissan Altima Sedan,"$13,016",31 MPG,4.1 ,4.2 
+891,Certified 2014 MAZDA MX‑5 Miata Convertible,"$13,020",23 MPG,4.1 ,4.8 
+892,Used 2015 BMW 3 Series Sedan,"$13,399",27 MPG,4.1 ,4.5 
+893,Certified 2017 Chevrolet Malibu Sedan,"$13,490",30 MPG,4.1 ,4 
+894,Certified 2017 Volkswagen Passat Sedan,"$13,688",27 MPG,4.1 ,4.5 
+895,Certified 2018 Volkswagen Jetta Sedan,"$13,858",32 MPG,4.1 ,4.4 
+896,Certified 2018 Chevrolet Malibu Sedan,"$13,972",30 MPG,4.1 ,4 
+897,Certified 2017 Ford Escape SUV,"$14,293",24 MPG,4.1 ,4.1 
+898,Used 2014 GMC Acadia SUV,"$14,350",19 MPG,4.1 ,4 
+899,Certified 2018 Nissan Sentra Sedan,"$14,711",30 MPG,4.1 ,3.8 
+900,Certified 2017 Subaru Legacy Sedan,"$15,061",29 MPG,4.1 ,4.4 
+901,Certified 2018 Ford Fusion Sedan,"$15,200",25 MPG,4.1 ,4.5 
+902,Certified 2014 Honda Accord Hybrid Sedan,"$15,224",47 MPG,4.1 ,4.8 
+903,Certified 2016 Chrysler 300 Sedan,"$15,228",21 MPG,4.1 ,4.8 
+904,Certified 2017 Nissan JUKE SUV,"$15,273",28 MPG,4.1 ,4.4 
+905,Certified 2018 Volkswagen Golf Hatchback,"$15,319",28 MPG,4.1 ,4.7 
+906,Certified 2018 Volkswagen Passat Sedan,"$15,450",29 MPG,4.1 ,4.5 
+907,Certified 2017 Jeep Renegade SUV,"$15,467",24 MPG,4.1 ,4 
+908,Certified 2015 Honda Pilot SUV,"$15,600",20 MPG,4.1 ,4.5 
+909,Used 2015 Audi A5 Coupe,"$15,620",25 MPG,4.1 ,4.7 
+910,Used 2016 Hyundai Santa Fe SUV,"$15,972",20 MPG,4.1 ,4.7 
+911,Certified 2018 Ford Escape SUV,"$16,106",24 MPG,4.1 ,4.1 
+912,Certified 2016 Volvo V60 Wagon,"$16,909",29 MPG,4.1 ,3.9 
+913,Certified 2019 Ford Fusion Sedan,"$17,071",25 MPG,4.1 ,4.5 
+914,Certified 2016 INFINITI Q50 Sedan,"$17,170",24 MPG,4.1 ,4.3 
+915,Certified 2016 GMC Sierra 1500 Regular Cab Pickup,"$17,325",18 MPG,4.1 ,4.3 
+916,Certified 2016 Toyota Avalon Sedan,"$17,331",24 MPG,4.1 ,4.4 
+917,Certified 2018 Volkswagen Golf SportWagen Wagon,"$17,400",28 MPG,4.1 ,4.8 
+918,Certified 2018 Jeep Renegade SUV,"$17,423",24 MPG,4.1 ,4 
+919,Used 2015 BMW 5 Series Sedan,"$17,495",26 MPG,4.1 ,4.3 
+920,Certified 2019 Ford Escape SUV,"$17,611",24 MPG,4.1 ,4.1 
+921,Certified 2018 Subaru Legacy Sedan,"$17,741",29 MPG,4.1 ,4.4 
+922,Certified 2017 GMC Sierra 1500 Regular Cab Pickup,"$17,755",18 MPG,4.1 ,4.3 
+923,Certified 2019 Volkswagen Passat Sedan,"$17,825",29 MPG,4.1 ,4.5 
+924,Certified 2016 Cadillac ATS Sedan,"$17,964",26 MPG,4.1 ,4.4 
+925,Certified 2019 Volkswagen Golf Hatchback,"$18,100",32 MPG,4.1 ,4.7 
+926,Certified 2016 Volkswagen Eos Convertible,"$18,240",25 MPG,4.1 ,4.5 
+927,Certified 2017 Chrysler 300 Sedan,"$18,309",21 MPG,4.1 ,4.8 
+928,Certified 2017 Kia Cadenza Sedan,"$18,411",23 MPG,4.1 ,5 
+929,Used 2014 Toyota Highlander SUV,"$18,471",20 MPG,4.1 ,4.3 
+930,Certified 2017 Hyundai Santa Fe SUV,"$18,910",20 MPG,4.1 ,4.7 
+931,Certified 2017 Nissan Murano SUV,"$19,095",24 MPG,4.1 ,4.6 
+932,Certified 2018 Toyota Prius c Hatchback,"$19,136",46 MPG,4.1 ,4.8 
+933,Certified 2015 Lexus ES Sedan,"$19,404",24 MPG,4.1 ,4.6 
+934,Certified 2019 Jeep Renegade SUV,"$19,456",24 MPG,4.1 ,4 
+935,Certified 2017 Buick Cascada Convertible,"$19,486",23 MPG,4.1 ,4.6 
+936,Certified 2017 Lincoln MKC SUV,"$19,697",21 MPG,4.1 ,4.6 
+937,Certified 2017 Toyota Avalon Sedan,"$19,715",24 MPG,4.1 ,4.4 
+938,Certified 2017 Volvo V60 Wagon,"$19,753",26 MPG,4.1 ,3.9 
+939,Certified 2017 Dodge Challenger Coupe,"$20,002",23 MPG,4.1 ,4.8 
+940,Certified 2018 Ford Fusion Energi Sedan,"$20,174",42 MPG | 97 MPGe,4.1 ,4.7 
+941,Certified 2019 Kia Sorento SUV,"$20,350",25 MPG,4.1 ,4.6 
+942,Certified 2018 Buick Cascada Convertible,"$20,851",24 MPG,4.1 ,4.6 
+943,Certified 2017 MAZDA CX‑9 SUV,"$20,900",23 MPG,4.1 ,4.9 
+944,Certified 2018 Dodge Challenger Coupe,"$20,923",23 MPG,4.1 ,4.8 
+945,Certified 2017 Toyota Avalon Hybrid Sedan,"$20,979",40 MPG,4.1 ,4.7 
+946,Certified 2018 Volkswagen Golf GTI Hatchback,"$21,419",27 MPG,4.1 ,4.6 
+947,Certified 2018 Lincoln MKC SUV,"$21,530",21 MPG,4.1 ,4.6 
+948,Certified 2018 Volkswagen e‑Golf Hatchback,"$21,900",119 MPGe,4.1 ,5 
+949,Certified 2018 Nissan Murano SUV,"$21,912",24 MPG,4.1 ,4.6 
+950,Certified 2016 BMW 5 Series Sedan,"$22,639",24 MPG,4.1 ,4.3 
+951,Certified 2016 GMC Sierra 1500 Crew Cab Pickup,"$23,060",18 MPG,4.1 ,4.3 
+952,Certified 2017 Volvo S90 Sedan,"$23,304",27 MPG,4.1 ,4.7 
+953,Certified 2019 Volkswagen Golf GTI Hatchback,"$23,356",27 MPG,4.1 ,4.6 
+954,Certified 2018 MAZDA CX‑9 SUV,"$23,850",23 MPG,4.1 ,4.9 
+955,Certified 2016 GMC Sierra 1500 Double Cab Pickup,"$24,029",18 MPG,4.1 ,4.3 
+956,Certified 2017 Cadillac XT5 SUV,"$24,500",22 MPG,4.1 ,4 
+957,Certified 2017 Audi A5 Sport Coupe,"$24,623",25 MPG,4.1 ,4.7 
+958,Certified 2019 Nissan Murano SUV,"$25,000",23 MPG,4.1 ,4.6 
+959,Certified 2017 GMC Sierra 1500 Crew Cab Pickup,"$25,402",18 MPG,4.1 ,4.3 
+960,Certified 2019 GMC Acadia SUV,"$25,438",20 MPG,4.1 ,3.9 
+961,Certified 2017 Alfa Romeo Giulia Sedan,"$25,802",26 MPG,4.1 ,4.9 
+962,Certified 2018 Volvo S90 Sedan,"$26,780",26 MPG,4.1 ,4.7 
+963,Certified 2017 GMC Sierra 1500 Double Cab Pickup,"$26,981",18 MPG,4.1 ,4.3 
+964,Certified 2015 Audi S5 Coupe,"$27,719",20 MPG,4.1 ,4.9 
+965,Certified 2018 Alfa Romeo Giulia Sedan,"$28,390",26 MPG,4.1 ,4.9 
+966,Certified 2019 Volvo S90 Sedan,"$28,733",26 MPG,4.1 ,4.7 
+967,Certified 2018 Alfa Romeo Stelvio SUV,"$28,767",24 MPG,4.1 ,4.8 
+968,Certified 2018 Nissan Armada SUV,"$29,653",15 MPG,4.1 ,4.8 
+969,Used 2016 BMW X6 SUV,"$30,400",21 MPG,4.1 ,5 
+970,Used 2014 Audi S8 Sedan,"$30,972",19 MPG,4.1 ,5 
+971,Certified 2018 BMW 4 Series Coupe,"$32,028",25 MPG,4.1 ,4.8 
+972,Certified 2019 INFINITI QX60 SUV,"$32,150",22 MPG,4.1 ,4.1 
+973,Certified 2017 Mercedes‑Benz SLC Convertible,"$32,712",27 MPG,4.1 ,4.6 
+974,Certified 2019 Nissan Armada SUV,"$32,860",15 MPG,4.1 ,4.8 
+975,Certified 2018 Volkswagen Golf R Hatchback,"$32,893",24 MPG,4.1 ,4.9 
+976,Certified 2018 Jaguar F‑PACE SUV,"$33,185",24 MPG,4.1 ,4.7 
+977,Certified 2016 Cadillac ATS‑V Coupe,"$34,395",19 MPG,4.1 ,5 
+978,Used 2015 Audi RS 5 Coupe,"$34,974",18 MPG,4.1 ,4.8 
+979,Certified 2019 Jaguar F‑PACE SUV,"$35,087",24 MPG,4.1 ,4.7 
+980,Used 2014 Chevrolet Corvette Coupe,"$35,358",20 MPG,4.1 ,4.9 
+981,Certified 2017 Audi S5 Coupe,"$35,862",20 MPG,4.1 ,4.9 
+982,Certified 2017 BMW X6 SUV,"$37,600",21 MPG,4.1 ,5 
+983,Certified 2019 BMW 4 Series Sedan,"$37,750",27 MPG,4.1 ,4.8 
+984,Certified 2015 BMW M3 Sedan,"$40,500",19 MPG,4.1 ,4.7 
+985,Certified 2017 Mercedes‑Benz Mercedes‑AMG SLC Convertible,"$41,362",23 MPG,4.1 ,4.6 
+986,Certified 2015 BMW M5 Sedan,"$43,624",16 MPG,4.1 ,5 
+987,Used 2016 BMW X6 M SUV,"$44,100",16 MPG,4.1 ,5 
+988,Certified 2016 BMW M5 Sedan,"$47,667",16 MPG,4.1 ,5 
+989,Certified 2018 BMW M4 Coupe,"$56,200",19 MPG,4.1 ,5 
+990,Certified 2017 BMW X6 M SUV,"$57,600",16 MPG,4.1 ,5 
+991,Certified 2015 Porsche 911 Coupe,"$66,713",22 MPG,4.1 ,4.9 
+992,Certified 2016 Porsche 911 Coupe,"$69,835",22 MPG,4.1 ,4.9 
+993,New 2019 Hyundai Santa Fe XL SUV,"$32,045",21 MPG,4 ,4.7 
+994,New 2019 Buick Cascada Convertible,"$33,995",24 MPG,4 ,4.6 
+995,New 2019 Kia Cadenza Sedan,"$34,095",23 MPG,4 ,5 
+996,New 2019 Lincoln MKC SUV,"$34,990",23 MPG,4 ,4.6 
+997,New 2019 Alfa Romeo Giulia Sedan,"$39,840",27 MPG,4 ,4.9 
+998,New 2019 Cadillac ATS Coupe,"$39,990",25 MPG,4 ,4.4 
+999,New 2019 Cadillac ATS‑V Coupe,"$68,790",19 MPG,4 ,5 
+1000,New 2019 BMW X6 M SUV,"$106,695",16 MPG,4 ,5 
+1001,Used 2014 Volkswagen Passat Sedan,"$7,430",28 MPG,4 ,4.5 
+1002,Used 2014 Kia Forte Sedan,"$7,665",29 MPG,4 ,4.6 
+1003,Certified 2015 Chevrolet Cruze Sedan,"$8,432",29 MPG,4 ,4.3 
+1004,Certified 2016 Toyota Yaris Hatchback,"$9,305",32 MPG,4 ,4.6 
+1005,Certified 2015 Volkswagen Passat Sedan,"$9,393",28 MPG,4 ,4.5 
+1006,Used 2014 Kia Soul Wagon,"$9,442",26 MPG,4 ,4.5 
+1007,Used 2013 Toyota Prius Hatchback,"$10,059",50 MPG,4 ,4.7 
+1008,Certified 2017 Toyota Yaris Hatchback,"$11,066",32 MPG,4 ,4.6 
+1009,Used 2015 Chrysler Town & Country Van/Minivan,"$11,642",20 MPG,4 ,3.9 
+1010,Used 2014 Nissan Pathfinder SUV,"$11,700",21 MPG,4 ,4 
+1011,Certified 2015 Ford Escape SUV,"$12,073",25 MPG,4 ,4.1 
+1012,Used 2016 Nissan NV200 Van/Minivan,"$12,323",25 MPG,4 ,3.4 
+1013,Used 2014 Chevrolet Traverse SUV,"$12,549",19 MPG,4 ,4.2 
+1014,Used 2014 Ford F150 Regular Cab Pickup,"$12,722",16 MPG,4 ,4.6 
+1015,Used 2013 Toyota Prius Plug‑in Hybrid Hatchback,"$12,939",50 MPG | 95 MPGe,4 ,4.9 
+1016,Certified 2016 Ford C‑MAX Hybrid Wagon,"$12,975",40 MPG,4 ,4.5 
+1017,Certified 2015 MAZDA MX‑5 Miata Convertible,"$13,052",23 MPG,4 ,4.8 
+1018,Used 2015 Hyundai Santa Fe Sport SUV,"$13,065",21 MPG,4 ,4.7 
+1019,Certified 2017 Chevrolet Trax SUV,"$13,259",27 MPG,4 ,4.3 
+1020,Used 2014 Cadillac CTS Coupe,"$13,381",21 MPG,4 ,4.7 
+1021,Certified 2017 Buick Encore SUV,"$13,458",28 MPG,4 ,4.4 
+1022,Used 2016 Hyundai Santa Fe Sport SUV,"$13,750",21 MPG,4 ,4.7 
+1023,Used 2017 Nissan NV200 Van/Minivan,"$14,344",25 MPG,4 ,3.4 
+1024,Certified 2015 Ford Edge SUV,"$14,729",20 MPG,4 ,4.5 
+1025,Certified 2017 Nissan Altima Sedan,"$14,976",31 MPG,4 ,4.2 
+1026,Used 2014 INFINITI Q50 Sedan,"$15,297",28 MPG,4 ,4.3 
+1027,Certified 2019 Chevrolet Malibu Sedan,"$15,819",32 MPG,4 ,4 
+1028,Certified 2016 Ford C‑MAX Energi Wagon,"$15,871",38 MPG | 88 MPGe,4 ,4.5 
+1029,Certified 2019 Nissan Sentra Sedan,"$16,482",30 MPG,4 ,3.8 
+1030,Certified 2016 Nissan Maxima Sedan,"$16,648",25 MPG,4 ,4.6 
+1031,Used 2014 Ford F150 SuperCrew Cab Pickup,"$16,908",16 MPG,4 ,4.6 
+1032,Certified 2018 Buick Encore SUV,"$16,971",28 MPG,4 ,4.4 
+1033,Certified 2018 Nissan Altima Sedan,"$16,990",31 MPG,4 ,4.2 
+1034,Certified 2015 Nissan Armada SUV,"$18,938",14 MPG,4 ,4.5 
+1035,Certified 2018 Chrysler 300 Sedan,"$18,950",21 MPG,4 ,4.8 
+1036,Certified 2017 Nissan Maxima Sedan,"$19,127",25 MPG,4 ,4.6 
+1037,Certified 2017 Buick LaCrosse Sedan,"$19,320",25 MPG,4 ,4.3 
+1038,Certified 2018 GMC Sierra 1500 Regular Cab Pickup,"$19,814",18 MPG,4 ,4.3 
+1039,Certified 2017 Nissan TITAN Single Cab Pickup,"$19,967",18 MPG,4 ,4.5 
+1040,Certified 2018 Kia Cadenza Sedan,"$20,050",23 MPG,4 ,5 
+1041,Certified 2018 Hyundai Santa Fe SUV,"$20,200",20 MPG,4 ,4.7 
+1042,Certified 2019 Subaru Legacy Sedan,"$20,251",29 MPG,4 ,4.4 
+1043,Certified 2019 Chrysler 300 Sedan,"$20,695",21 MPG,4 ,4.8 
+1044,Certified 2018 Toyota Avalon Sedan,"$20,734",24 MPG,4 ,4.4 
+1045,Certified 2017 Jaguar XE Sedan,"$20,970",24 MPG,4 ,4.8 
+1046,Used 2015 Audi Q7 SUV,"$20,974",18 MPG,4 ,4.4 
+1047,Used 2014 Audi A7 Sedan,"$21,080",21 MPG,4 ,4.7 
+1048,Certified 2016 INFINITI QX50 SUV,"$21,539",20 MPG,4 ,4.6 
+1049,Certified 2017 Nissan Titan King Cab Pickup,"$21,638",18 MPG,4 ,3 
+1050,Certified 2014 Porsche Cayenne SUV,"$22,280",17 MPG,4 ,4.5 
+1051,Certified 2017 Cadillac ATS Sedan,"$22,387",23 MPG,4 ,4.4 
+1052,Certified 2019 Dodge Challenger Coupe,"$22,756",21 MPG,4 ,4.8 
+1053,Certified 2016 INFINITI Q70 Sedan,"$22,800",20 MPG,4 ,4.5 
+1054,Certified 2016 Acura RLX Sedan,"$23,254",24 MPG,4 ,4.3 
+1055,Used 2014 Mercedes‑Benz CLS‑Class Coupe,"$23,327",20 MPG,4 ,4.9 
+1056,Certified 2016 INFINITI QX70 SUV,"$23,600",18 MPG,4 ,4.6 
+1057,Certified 2018 Toyota Avalon Hybrid Sedan,"$23,772",40 MPG,4 ,4.7 
+1058,Certified 2018 Jaguar XE Sedan,"$23,832",28 MPG,4 ,4.8 
+1059,Certified 2018 Cadillac ATS Coupe,"$24,864",23 MPG,4 ,4.4 
+1060,Certified 2017 Lexus ES Sedan,"$24,942",24 MPG,4 ,4.6 
+1061,Used 2015 Audi A7 Sedan,"$25,388",21 MPG,4 ,4.7 
+1062,Certified 2017 Nissan Titan Crew Cab Pickup,"$25,825",18 MPG,4 ,4.5 
+1063,Certified 2017 Kia K900 Sedan,"$26,098",20 MPG,4 ,4.1 
+1064,Certified 2016 Acura RLX Sport Hybrid Sedan,"$26,264",30 MPG,4 ,5 
+1065,Used 2015 Audi A8 Sedan,"$26,359",22 MPG,4 ,4.3 
+1066,Certified 2017 Acura RLX Sedan,"$26,999",23 MPG,4 ,4.3 
+1067,Certified 2018 Volvo V60 Wagon,"$27,379",26 MPG,4 ,3.9 
+1068,Certified 2019 MAZDA CX‑9 SUV,"$27,500",23 MPG,4 ,4.9 
+1069,Certified 2018 Cadillac XT5 SUV,"$27,684",21 MPG,4 ,4 
+1070,Certified 2018 GMC Sierra 1500 Double Cab Pickup,"$28,393",18 MPG,4 ,4.3 
+1071,Certified 2018 GMC Sierra 1500 Crew Cab Pickup,"$28,874",18 MPG,4 ,4.3 
+1072,Certified 2015 Toyota Sequoia SUV,"$29,007",14 MPG,4 ,4.8 
+1073,Certified 2019 Lincoln Nautilus SUV,"$30,600",22 MPG,4 ,4.6 
+1074,Used 2014 Audi S7 Sedan,"$30,882",20 MPG,4 ,4.9 
+1075,Certified 2018 Lexus ES Sedan,"$31,110",24 MPG,4 ,4.6 
+1076,Certified 2016 Audi A8 Sedan,"$31,115",22 MPG,4 ,4.3 
+1077,Certified 2016 Toyota Sequoia SUV,"$31,400",14 MPG,4 ,4.8 
+1078,Certified 2017 Acura RLX Sport Hybrid Sedan,"$31,593",29 MPG,4 ,5 
+1079,Certified 2019 Cadillac XT5 SUV,"$32,000",21 MPG,4 ,4 
+1080,Used 2015 Audi S7 Sedan,"$35,010",20 MPG,4 ,4.9 
+1081,Certified 2018 Acura RLX Sedan,"$35,398",23 MPG,4 ,4.3 
+1082,Certified 2015 Porsche Boxster Convertible,"$36,068",24 MPG,4 ,5 
+1083,Certified 2017 Land Rover Discovery SUV,"$37,050",18 MPG,4 ,4.3 
+1084,Certified 2015 Chevrolet Corvette Coupe,"$37,602",20 MPG,4 ,4.9 
+1085,Certified 2015 Porsche Cayman Coupe,"$38,294",24 MPG,4 ,4.9 
+1086,Used 2015 Audi S8 Sedan,"$38,685",20 MPG,4 ,5 
+1087,Certified 2016 Chevrolet Corvette Coupe,"$39,294",20 MPG,4 ,4.9 
+1088,Certified 2018 BMW X6 SUV,"$41,400",21 MPG,4 ,5 
+1089,Certified 2016 Porsche Cayman Coupe,"$41,664",24 MPG,4 ,4.9 
+1090,Certified 2018 Acura RLX Sport Hybrid Sedan,"$41,920",28 MPG,4 ,5 
+1091,Certified 2017 Cadillac ATS‑V Sedan,"$43,056",19 MPG,4 ,5 
+1092,Certified 2019 Acura RLX Sedan,"$43,650",23 MPG,4 ,4.3 
+1093,Certified 2018 Cadillac ATS‑V Coupe,"$44,180",19 MPG,4 ,5 
+1094,Certified 2019 BMW X6 SUV,"$45,800",20 MPG,4 ,5 
+1095,Certified 2019 Acura RLX Sport Hybrid Sedan,"$49,050",28 MPG,4 ,5 
+1096,Certified 2016 Audi S8 Sedan,"$51,259",20 MPG,4 ,5 
+1097,Certified 2018 BMW X6 M SUV,"$69,700",16 MPG,4 ,5 
+1098,Certified 2018 Porsche 911 Coupe,"$85,720",23 MPG,4 ,4.9 
+1099,New 2020 Ford EcoSport SUV,"$21,090",28 MPG,3.9 ,4.4 
+1100,New 2020 Chevrolet Trax SUV,"$22,295",28 MPG,3.9 ,4.3 
+1101,New 2020 Buick Encore SUV,"$24,195",27 MPG,3.9 ,4.4 
+1102,New 2020 Nissan Maxima Sedan,"$35,175",24 MPG,3.9 ,4.6 
+1103,New 2020 Land Rover Discovery SUV,"$53,325",18 MPG,3.9 ,4.3 
+1104,New 2019 Buick LaCrosse Sedan,"$30,495",29 MPG,3.9 ,4.3 
+1105,New 2019 Nissan TITAN Single Cab Pickup,"$32,285",18 MPG,3.9 ,4.5 
+1106,New 2019 Jaguar XE Sedan,"$37,990",28 MPG,3.9 ,4.8 
+1107,Used 2013 Chevrolet Sonic Hatchback,"$5,815",28 MPG,3.9 ,4.3 
+1108,Certified 2015 Nissan Versa Sedan,"$6,464",30 MPG,3.9 ,3.9 
+1109,Certified 2015 Chevrolet Spark Hatchback,"$7,663",34 MPG,3.9 ,4.3 
+1110,Certified 2016 Chevrolet Spark Hatchback,"$8,357",34 MPG,3.9 ,4.6 
+1111,Certified 2015 Chevrolet Spark EV Hatchback,"$8,643",119 MPGe,3.9 ,4.9 
+1112,Certified 2015 Nissan LEAF Hatchback,"$9,717",114 MPGe,3.9 ,4.6 
+1113,Used 2014 Ford Fusion Sedan,"$9,754",26 MPG,3.9 ,4.5 
+1114,Used 2014 Ford Escape SUV,"$9,757",25 MPG,3.9 ,4.1 
+1115,Used 2015 Chevrolet Trax SUV,"$9,776",27 MPG,3.9 ,4.3 
+1116,Used 2014 Volvo S60 Sedan,"$10,045",23 MPG,3.9 ,4.6 
+1117,Certified 2016 Chevrolet Cruze Limited Sedan,"$10,120",29 MPG,3.9 ,4.3 
+1118,Certified 2016 Chevrolet Spark EV Hatchback,"$10,330",119 MPGe,3.9 ,4.9 
+1119,Certified 2015 MINI Hardtop 2 Door Hatchback,"$10,742",31 MPG,3.9 ,4.7 
+1120,Certified 2016 FIAT 500X SUV,"$10,846",25 MPG,3.9 ,4 
+1121,Used 2014 Kia Sorento SUV,"$10,930",20 MPG,3.9 ,4.3 
+1122,Used 2014 Chevrolet Impala Sedan,"$11,000",25 MPG,3.9 ,4.7 
+1123,Used 2014 Ford Fusion Energi Sedan,"$11,078",38 MPG | 88 MPGe,3.9 ,4.7 
+1124,Certified 2015 MINI Hardtop 4 Door Hatchback,"$11,305",31 MPG,3.9 ,4.7 
+1125,Used 2014 Toyota Prius Hatchback,"$11,600",50 MPG,3.9 ,4.7 
+1126,Certified 2015 Nissan Frontier King Cab Pickup,"$11,900",19 MPG,3.9 ,4.5 
+1127,Used 2014 Ford Mustang Convertible,"$12,770",22 MPG,3.9 ,4.7 
+1128,Used 2014 Toyota Sienna Van/Minivan,"$12,830",21 MPG,3.9 ,4.4 
+1129,Used 2014 Cadillac ATS Sedan,"$12,984",26 MPG,3.9 ,4.4 
+1130,Certified 2016 Ford Escape SUV,"$13,093",25 MPG,3.9 ,4.1 
+1131,Certified 2014 Scion FR‑S Coupe,"$13,114",25 MPG,3.9 ,4.7 
+1132,Used 2014 GMC Sierra 1500 Regular Cab Pickup,"$13,358",18 MPG,3.9 ,4.3 
+1133,Certified 2016 Nissan Frontier King Cab Pickup,"$13,563",19 MPG,3.9 ,4.5 
+1134,Certified 2018 Ford EcoSport SUV,"$13,604",25 MPG,3.9 ,4.4 
+1135,Certified 2018 Chevrolet Trax SUV,"$13,723",27 MPG,3.9 ,4.3 
+1136,Certified 2016 MINI Hardtop 2 Door Hatchback,"$13,750",30 MPG,3.9 ,4.7 
+1137,Certified 2016 Chrysler Town & Country Van/Minivan,"$13,756",20 MPG,3.9 ,3.9 
+1138,Certified 2018 Toyota Yaris Hatchback,"$13,800",32 MPG,3.9 ,4.6 
+1139,Certified 2015 Toyota Prius Hatchback,"$13,820",50 MPG,3.9 ,4.7 
+1140,Certified 2016 MINI Hardtop 4 Door Hatchback,"$13,879",30 MPG,3.9 ,4.7 
+1141,Used 2014 Honda Pilot SUV,"$13,900",20 MPG,3.9 ,4.5 
+1142,Used 2014 Chevrolet Silverado 1500 Regular Cab Pickup,"$13,925",18 MPG,3.9 ,4.4 
+1143,Used 2014 Toyota Prius Plug‑in Hybrid Hatchback,"$14,356",50 MPG | 95 MPGe,3.9 ,4.9 
+1144,Used 2014 Mercedes‑Benz CLA‑Class Sedan,"$14,703",30 MPG,3.9 ,4.6 
+1145,Certified 2015 Chevrolet Traverse SUV,"$14,766",19 MPG,3.9 ,4.2 
+1146,Used 2014 Chevrolet Silverado 1500 Double Cab Pickup,"$14,864",18 MPG,3.9 ,4.4 
+1147,Certified 2019 Chevrolet Trax SUV,"$15,026",26 MPG,3.9 ,4.3 
+1148,Certified 2015 Scion FR‑S Coupe,"$15,184",25 MPG,3.9 ,4.7 
+1149,Certified 2019 Ford EcoSport SUV,"$15,414",25 MPG,3.9 ,4.4 
+1150,Certified 2017 Ford C‑MAX Hybrid Wagon,"$15,518",40 MPG,3.9 ,4.5 
+1151,Certified 2015 Ford Explorer SUV,"$15,650",19 MPG,3.9 ,4.2 
+1152,Certified 2015 Ford Flex SUV,"$15,807",20 MPG,3.9 ,4.7 
+1153,Certified 2017 Ford C‑MAX Energi Wagon,"$15,879",39 MPG | 95 MPGe,3.9 ,4.5 
+1154,Used 2015 Cadillac CTS Sedan,"$16,199",22 MPG,3.9 ,4.7 
+1155,Certified 2015 Subaru BRZ Coupe,"$16,212",25 MPG,3.9 ,4.8 
+1156,Certified 2016 Ford Edge SUV,"$16,350",23 MPG,3.9 ,4.5 
+1157,Certified 2016 Chevrolet Traverse SUV,"$16,485",17 MPG,3.9 ,4.2 
+1158,Certified 2015 Nissan Frontier Crew Cab Pickup,"$16,800",17 MPG,3.9 ,4.6 
+1159,Used 2014 Acura RLX Sedan,"$16,845",24 MPG,3.9 ,4.3 
+1160,Certified 2016 Hyundai Genesis Coupe,"$16,863",19 MPG,3.9 ,4.5 
+1161,Certified 2016 Ford Flex SUV,"$16,964",19 MPG,3.9 ,4.7 
+1162,Certified 2018 Ford C‑MAX Hybrid Wagon,"$17,231",40 MPG,3.9 ,4.5 
+1163,Certified 2016 MINI Convertible,"$17,276",31 MPG,3.9 ,4.7 
+1164,Used 2014 Chevrolet Silverado 1500 Crew Cab Pickup,"$17,284",18 MPG,3.9 ,4.4 
+1165,Certified 2015 Toyota Tundra Regular Cab Pickup,"$17,530",15 MPG,3.9 ,4.7 
+1166,Used 2015 INFINITI Q50 Sedan,"$17,590",22 MPG,3.9 ,4.3 
+1167,Certified 2017 Hyundai Santa Fe Sport SUV,"$17,650",22 MPG,3.9 ,4.7 
+1168,Used 2014 Ram 1500 Crew Cab Pickup,"$17,734",15 MPG,3.9 ,4.6 
+1169,Certified 2016 Nissan Frontier Crew Cab Pickup,"$17,734",17 MPG,3.9 ,4.6 
+1170,Certified 2018 Hyundai Santa Fe Sport SUV,"$17,950",22 MPG,3.9 ,4.7 
+1171,Certified 2019 Buick Encore SUV,"$18,379",27 MPG,3.9 ,4.4 
+1172,Certified 2017 Ford Edge SUV,"$18,400",23 MPG,3.9 ,4.5 
+1173,Certified 2016 Lincoln MKX SUV,"$18,850",19 MPG,3.9 ,4.6 
+1174,Used 2014 Acura RLX Sport Hybrid Sedan,"$19,258",30 MPG,3.9 ,5 
+1175,Certified 2015 Toyota Prius Plug‑in Hybrid Hatchback,"$19,400",50 MPG | 95 MPGe,3.9 ,4.9 
+1176,Certified 2018 Buick LaCrosse Sedan,"$19,758",29 MPG,3.9 ,4.3 
+1177,Used 2014 GMC Sierra 1500 Crew Cab Pickup,"$19,831",18 MPG,3.9 ,4.3 
+1178,Certified 2015 INFINITI QX60 SUV,"$20,147",22 MPG,3.9 ,4.1 
+1179,Certified 2015 Acura RLX Sedan,"$20,339",24 MPG,3.9 ,4.3 
+1180,Certified 2018 Nissan Maxima Sedan,"$20,726",25 MPG,3.9 ,4.6 
+1181,Certified 2018 Nissan TITAN Single Cab Pickup,"$22,000",18 MPG,3.9 ,4.5 
+1182,Certified 2018 Nissan Titan King Cab Pickup,"$23,000",18 MPG,3.9 ,3 
+1183,Certified 2019 Nissan Maxima Sedan,"$23,045",24 MPG,3.9 ,4.6 
+1184,Certified 2015 Toyota Tundra Double Cab Pickup,"$23,777",15 MPG,3.9 ,4.7 
+1185,Used 2014 BMW 6 Series Coupe,"$24,221",24 MPG,3.9 ,4.7 
+1186,Certified 2017 INFINITI QX50 SUV,"$24,312",20 MPG,3.9 ,4.6 
+1187,Certified 2017 INFINITI Q70 Sedan,"$24,454",20 MPG,3.9 ,4.5 
+1188,Certified 2017 Ford Expedition SUV,"$25,200",17 MPG,3.9 ,4.6 
+1189,Certified 2017 Nissan TITAN XD Crew Cab Pickup,"$25,851",18 MPG,3.9 ,4.6 
+1190,Certified 2019 Nissan Titan King Cab Pickup,"$26,700",18 MPG,3.9 ,3 
+1191,Certified 2017 Nissan TITAN XD King Cab Pickup,"$27,462",18 MPG,3.9 ,4.6 
+1192,Certified 2018 INFINITI Q70 Sedan,"$27,635",20 MPG,3.9 ,4.5 
+1193,Certified 2017 Ford Expedition EL SUV,"$27,700",16 MPG,3.9 ,4.6 
+1194,Certified 2018 Nissan TITAN XD Crew Cab Pickup,"$27,714",18 MPG,3.9 ,4.6 
+1195,Certified 2015 Toyota Tundra CrewMax Pickup,"$29,202",15 MPG,3.9 ,4.7 
+1196,Certified 2015 Chevrolet SS Sedan,"$29,288",17 MPG,3.9 ,4.8 
+1197,Certified 2018 Nissan Titan Crew Cab Pickup,"$29,614",18 MPG,3.9 ,4.5 
+1198,Certified 2015 Mercedes‑Benz CLS‑Class Sedan,"$29,629",24 MPG,3.9 ,4.9 
+1199,Certified 2017 INFINITI QX70 SUV,"$30,250",18 MPG,3.9 ,4.6 
+1200,Certified 2015 Porsche Cayenne SUV,"$31,680",20 MPG,3.9 ,4.5 
+1201,Certified 2019 Nissan Titan Crew Cab Pickup,"$31,991",18 MPG,3.9 ,4.5 
+1202,Certified 2016 Mercedes‑Benz CLS‑Class Sedan,"$34,652",24 MPG,3.9 ,4.9 
+1203,Certified 2018 Toyota Sequoia SUV,"$37,387",14 MPG,3.9 ,4.8 
+1204,Certified 2018 Land Rover Discovery SUV,"$38,500",18 MPG,3.9 ,4.3 
+1205,Certified 2017 Chevrolet Corvette Coupe,"$39,531",19 MPG,3.9 ,4.9 
+1206,Certified 2017 Audi A8 Sedan,"$39,630",22 MPG,3.9 ,4.3 
+1207,Certified 2016 Porsche Boxster Convertible,"$40,169",24 MPG,3.9 ,5 
+1208,Used 2014 BMW M6 Convertible,"$40,213",16 MPG,3.9 ,5 
+1209,Certified 2019 Land Rover Discovery SUV,"$41,650",18 MPG,3.9 ,4.3 
+1210,Certified 2015 BMW M6 Coupe,"$45,383",16 MPG,3.9 ,5 
+1211,Certified 2018 Audi A8 Sedan,"$46,375",22 MPG,3.9 ,4.3 
+1212,Certified 2018 Chevrolet Corvette Coupe,"$47,196",18 MPG,3.9 ,4.9 
+1213,Used 2012 Nissan GT‑R Coupe,"$58,213",19 MPG,3.9 ,4.9 
+1214,Certified 2017 Audi S8 Sedan,"$63,855",18 MPG,3.9 ,5 
+1215,Certified 2018 Audi S8 Sedan,"$81,321",18 MPG,3.9 ,5 
+1216,New 2020 Chevrolet Spark Hatchback,"$14,095",33 MPG,3.8 ,4.6 
+1217,New 2020 Ford Edge SUV,"$32,345",24 MPG,3.8 ,4.5 
+1218,New 2020 Toyota Sequoia SUV,"$51,375",15 MPG,3.8 ,4.8 
+1219,New 2019 Nissan Frontier King Cab Pickup,"$20,185",21 MPG,3.8 ,4.5 
+1220,New 2019 FIAT 500X SUV,"$25,985",26 MPG,3.8 ,4 
+1221,New 2019 Nissan Frontier Crew Cab Pickup,"$26,145",21 MPG,3.8 ,4.6 
+1222,New 2019 Cadillac XTS Sedan,"$47,890",22 MPG,3.8 ,4.5 
+1223,New 2019 INFINITI Q70 Sedan,"$51,425",21 MPG,3.8 ,4.5 
+1224,Used 2014 Nissan Versa Sedan,"$5,549",30 MPG,3.8 ,3.9 
+1225,Used 2014 Chevrolet Sonic Sedan,"$6,489",28 MPG,3.8 ,4.3 
+1226,Certified 2016 Nissan Versa Sedan,"$7,388",30 MPG,3.8 ,3.9 
+1227,Certified 2015 FIAT 500 Hatchback,"$7,608",30 MPG,3.8 ,4.4 
+1228,Certified 2015 FIAT 500e Hatchback,"$8,025",116 MPGe,3.8 ,4.9 
+1229,Certified 2017 Nissan Versa Sedan,"$8,443",29 MPG,3.8 ,3.9 
+1230,Used 2015 Dodge Dart Sedan,"$8,669",27 MPG,3.8 ,4.2 
+1231,Certified 2015 FIAT 500c Convertible,"$9,212",30 MPG,3.8 ,4.4 
+1232,Used 2014 Hyundai Sonata Sedan,"$9,434",28 MPG,3.8 ,4.5 
+1233,Used 2014 Toyota Corolla Sedan,"$9,513",35 MPG,3.8 ,4.2 
+1234,Used 2014 Nissan Quest Van/Minivan,"$9,539",21 MPG,3.8 ,4.6 
+1235,Certified 2017 Chevrolet Spark Hatchback,"$9,582",33 MPG,3.8 ,4.6 
+1236,Used 2014 Toyota Prius c Hatchback,"$9,744",50 MPG,3.8 ,4.8 
+1237,Certified 2018 Chevrolet Spark Hatchback,"$10,146",33 MPG,3.8 ,4.6 
+1238,Used 2015 Dodge Grand Caravan Passenger Van/Minivan,"$10,179",20 MPG,3.8 ,3.8 
+1239,Certified 2016 Dodge Dart Sedan,"$10,386",32 MPG,3.8 ,4.2 
+1240,Used 2015 Chrysler 200 Sedan,"$10,688",28 MPG,3.8 ,4.1 
+1241,Used 2014 Hyundai Azera Sedan,"$10,799",23 MPG,3.8 ,4.7 
+1242,Certified 2014 Honda CR‑Z Coupe,"$10,926",34 MPG,3.8 ,4.7 
+1243,Used 2015 Volvo S60 Sedan,"$11,068",23 MPG,3.8 ,4.6 
+1244,Certified 2015 FIAT 500 Abarth Hatchback,"$11,396",27 MPG,3.8 ,4.4 
+1245,Certified 2015 Chevrolet Malibu Sedan,"$11,449",29 MPG,3.8 ,4.3 
+1246,Used 2014 Ford Edge SUV,"$11,500",21 MPG,3.8 ,4.5 
+1247,Certified 2016 Chevrolet Trax SUV,"$11,615",27 MPG,3.8 ,4.3 
+1248,Certified 2017 FIAT 500X SUV,"$11,993",24 MPG,3.8 ,4 
+1249,Certified 2019 Chevrolet Spark Hatchback,"$12,181",33 MPG,3.8 ,4.6 
+1250,Used 2014 Hyundai Santa Fe Sport SUV,"$12,191",21 MPG,3.8 ,4.7 
+1251,Certified 2016 Dodge Grand Caravan Passenger Van/Minivan,"$12,371",20 MPG,3.8 ,3.8 
+1252,Certified 2016 Chevrolet Malibu Limited Sedan,"$12,499",29 MPG,3.8 ,4.3 
+1253,Used 2014 Ford Flex SUV,"$13,050",20 MPG,3.8 ,4.7 
+1254,Used 2014 Honda CR‑V SUV,"$13,248",25 MPG,3.8 ,4.1 
+1255,Used 2014 Chevrolet Camaro Coupe,"$13,296",20 MPG,3.8 ,4.7 
+1256,Used 2014 Acura TSX Sedan,"$13,313",23 MPG,3.8 ,4.8 
+1257,Certified 2016 Buick Regal Sedan,"$13,318",23 MPG,3.8 ,4.5 
+1258,Certified 2018 FIAT 500X SUV,"$13,621",24 MPG,3.8 ,4 
+1259,Used 2014 Jeep Grand Cherokee SUV,"$13,750",19 MPG,3.8 ,4.4 
+1260,Used 2014 BMW X3 SUV,"$14,207",24 MPG,3.8 ,4.5 
+1261,Used 2015 Cadillac ATS Sedan,"$14,398",25 MPG,3.8 ,4.4 
+1262,Used 2015 INFINITI Q40 Sedan,"$14,508",20 MPG,3.8 ,5 
+1263,Used 2015 Dodge Charger Sedan,"$14,670",21 MPG,3.8 ,4.8 
+1264,Certified 2015 Chevrolet Camaro Coupe,"$14,870",20 MPG,3.8 ,4.7 
+1265,Used 2016 Lincoln MKZ Sedan,"$15,321",20 MPG,3.8 ,4.6 
+1266,Used 2014 Audi A6 Sedan,"$15,326",23 MPG,3.8 ,4.6 
+1267,Used 2014 INFINITI Q60 Coupe,"$15,340",22 MPG,3.8 ,4.7 
+1268,Certified 2017 Nissan Frontier King Cab Pickup,"$15,350",19 MPG,3.8 ,4.5 
+1269,Certified 2017 MINI Hardtop 4 Door Hatchback,"$16,065",30 MPG,3.8 ,4.7 
+1270,Certified 2017 MINI Hardtop 2 Door Hatchback,"$16,368",30 MPG,3.8 ,4.7 
+1271,Used 2014 Audi Q5 SUV,"$16,966",23 MPG,3.8 ,4.4 
+1272,Certified 2014 Acura RDX SUV,"$16,989",22 MPG,3.8 ,4.4 
+1273,Certified 2018 Nissan Frontier King Cab Pickup,"$17,050",19 MPG,3.8 ,4.5 
+1274,Certified 2016 Dodge Charger Sedan,"$17,208",21 MPG,3.8 ,4.8 
+1275,Certified 2015 Acura RDX SUV,"$17,715",22 MPG,3.8 ,4.4 
+1276,Certified 2016 Ford Explorer SUV,"$17,800",19 MPG,3.8 ,4.2 
+1277,Certified 2015 Mercedes‑Benz CLA‑Class Sedan,"$17,889",30 MPG,3.8 ,4.6 
+1278,Certified 2018 MINI Hardtop 2 Door Hatchback,"$17,896",30 MPG,3.8 ,4.7 
+1279,Used 2015 Audi allroad Wagon,"$18,557",24 MPG,3.8 ,4.1 
+1280,Certified 2015 Audi Q5 SUV,"$18,772",23 MPG,3.8 ,4.4 
+1281,Used 2014 Honda Ridgeline Pickup,"$18,850",17 MPG,3.8 ,4.7 
+1282,Certified 2017 Ford Flex SUV,"$19,035",19 MPG,3.8 ,4.7 
+1283,Certified 2016 Buick Envision SUV,"$19,261",22 MPG,3.8 ,4.6 
+1284,Certified 2018 MINI Hardtop 4 Door Hatchback,"$19,299",30 MPG,3.8 ,4.7 
+1285,Certified 2017 Chevrolet Traverse SUV,"$19,414",17 MPG,3.8 ,4.2 
+1286,Certified 2017 MINI Convertible,"$19,529",30 MPG,3.8 ,4.7 
+1287,Certified 2017 Nissan Frontier Crew Cab Pickup,"$19,749",19 MPG,3.8 ,4.6 
+1288,Certified 2018 Ford Edge SUV,"$19,800",23 MPG,3.8 ,4.5 
+1289,Certified 2018 MINI Convertible,"$20,098",30 MPG,3.8 ,4.7 
+1290,Certified 2016 Toyota Tundra Regular Cab Pickup,"$20,195",15 MPG,3.8 ,4.7 
+1291,Used 2014 Audi TT Coupe,"$20,591",26 MPG,3.8 ,4.5 
+1292,Used 2015 Audi S3 Sedan,"$20,661",26 MPG,3.8 ,4.5 
+1293,Certified 2017 Lincoln MKX SUV,"$21,000",19 MPG,3.8 ,4.6 
+1294,Certified 2018 Ford Flex SUV,"$21,110",19 MPG,3.8 ,4.7 
+1295,Certified 2018 Nissan Frontier Crew Cab Pickup,"$21,142",19 MPG,3.8 ,4.6 
+1296,Certified 2017 Cadillac XTS Sedan,"$21,299",22 MPG,3.8 ,4.5 
+1297,Certified 2015 Mercedes‑Benz SLK‑Class Convertible,"$21,389",26 MPG,3.8 ,4.6 
+1298,Certified 2017 Ford Explorer SUV,"$21,400",19 MPG,3.8 ,4.2 
+1299,Certified 2017 Lincoln Continental Sedan,"$21,857",19 MPG,3.8 ,4.8 
+1300,Certified 2016 Jeep Wrangler SUV,"$22,410",18 MPG,3.8 ,4.6 
+1301,Certified 2017 Toyota Tundra Regular Cab Pickup,"$23,496",15 MPG,3.8 ,4.7 
+1302,Certified 2019 Ford Edge SUV,"$23,850",23 MPG,3.8 ,4.5 
+1303,Certified 2017 Jeep Wrangler SUV,"$24,264",18 MPG,3.8 ,4.6 
+1304,Used 2014 Audi SQ5 SUV,"$24,945",19 MPG,3.8 ,4.7 
+1305,Certified 2018 Lincoln MKX SUV,"$25,150",19 MPG,3.8 ,4.6 
+1306,Certified 2016 Toyota Tundra Double Cab Pickup,"$25,290",15 MPG,3.8 ,4.7 
+1307,Certified 2019 Ford Explorer SUV,"$25,800",18 MPG,3.8 ,4.2 
+1308,Certified 2017 Toyota Tundra Double Cab Pickup,"$26,498",15 MPG,3.8 ,4.7 
+1309,Certified 2017 Jeep Wrangler Unlimited SUV,"$26,950",18 MPG,3.8 ,4.6 
+1310,Certified 2016 Land Rover Range Rover Evoque SUV,"$27,103",24 MPG,3.8 ,3.9 
+1311,Used 2014 Audi S6 Sedan,"$27,233",20 MPG,3.8 ,4.8 
+1312,Certified 2018 Cadillac XTS Sedan,"$27,500",22 MPG,3.8 ,4.5 
+1313,Certified 2015 Audi SQ5 SUV,"$27,916",19 MPG,3.8 ,4.7 
+1314,Certified 2018 Lincoln Continental Sedan,"$28,110",19 MPG,3.8 ,4.8 
+1315,Used 2014 Mercedes‑Benz CL‑Class Coupe,"$28,541",18 MPG,3.8 ,4.8 
+1316,Certified 2016 Lexus GX SUV,"$30,200",17 MPG,3.8 ,4.4 
+1317,Certified 2016 Toyota Tundra CrewMax Pickup,"$31,650",15 MPG,3.8 ,4.7 
+1318,Certified 2016 Maserati Ghibli Sedan,"$32,493",19 MPG,3.8 ,4.3 
+1319,Certified 2017 Lexus GX SUV,"$33,300",16 MPG,3.8 ,4.4 
+1320,Certified 2017 Toyota Tundra CrewMax Pickup,"$34,980",15 MPG,3.8 ,4.7 
+1321,Certified 2019 Lincoln Continental Sedan,"$36,722",19 MPG,3.8 ,4.8 
+1322,Certified 2019 Toyota Sequoia SUV,"$40,450",14 MPG,3.8 ,4.8 
+1323,Certified 2017 Mercedes‑Benz CLS Sedan,"$45,492",21 MPG,3.8 ,4.9 
+1324,Certified 2016 BMW M6 Coupe,"$55,845",16 MPG,3.8 ,5 
+1325,Used 2015 Nissan GT‑R Coupe,"$67,929",19 MPG,3.8 ,4.9 
+1326,Certified 2017 Mercedes‑Benz Mercedes‑AMG CLS Sedan,"$68,952",18 MPG,3.8 ,4.9 
+1327,New 2020 Dodge Charger Sedan,"$31,390",23 MPG,3.7 ,4.8 
+1328,New 2020 Toyota Tundra Double Cab Pickup,"$35,170",15 MPG,3.7 ,4.7 
+1329,New 2020 Toyota Tundra CrewMax Pickup,"$39,445",15 MPG,3.7 ,4.7 
+1330,New 2020 Lexus GX SUV,"$54,025",16 MPG,3.7 ,4.4 
+1331,New 2019 MINI Convertible,"$27,750",30 MPG,3.7 ,4.7 
+1332,New 2019 Ford Flex SUV,"$31,670",19 MPG,3.7 ,4.7 
+1333,New 2019 Jaguar XF Sedan,"$50,960",28 MPG,3.7 ,4.7 
+1334,New 2019 BMW 6 Series Sedan,"$71,295",23 MPG,3.7 ,4.7 
+1335,New 2019 Maserati Ghibli Sedan,"$76,975",19 MPG,3.7 ,4.3 
+1336,Used 2014 Nissan Sentra Sedan,"$7,300",34 MPG,3.7 ,3.8 
+1337,Certified 2016 FIAT 500e Hatchback,"$8,380",112 MPGe,3.7 ,4.9 
+1338,Used 2014 Volkswagen Golf Hatchback,"$8,593",26 MPG,3.7 ,4.7 
+1339,Certified 2016 FIAT 500 Hatchback,"$8,786",30 MPG,3.7 ,4.4 
+1340,Certified 2015 Volkswagen Jetta Sedan,"$8,800",28 MPG,3.7 ,4.4 
+1341,Used 2013 Chevrolet Equinox SUV,"$9,511",23 MPG,3.7 ,4.1 
+1342,Certified 2014 Volkswagen Tiguan SUV,"$9,690",21 MPG,3.7 ,4.3 
+1343,Used 2014 Nissan Maxima Sedan,"$10,060",22 MPG,3.7 ,4.6 
+1344,Used 2014 Jeep Cherokee SUV,"$10,108",24 MPG,3.7 ,3.9 
+1345,Certified 2018 Nissan Versa Sedan,"$10,475",30 MPG,3.7 ,3.9 
+1346,Used 2014 Subaru Forester SUV,"$10,936",24 MPG,3.7 ,4.3 
+1347,Used 2014 Kia Sportage SUV,"$10,997",22 MPG,3.7 ,4.5 
+1348,Used 2014 Toyota Camry Sedan,"$11,190",28 MPG,3.7 ,4.4 
+1349,Used 2014 Toyota Tacoma Regular Cab Pickup,"$11,500",19 MPG,3.7 ,4.7 
+1350,Used 2015 Jeep Cherokee SUV,"$11,641",24 MPG,3.7 ,3.9 
+1351,Certified 2019 Nissan Versa Sedan,"$11,767",30 MPG,3.7 ,3.9 
+1352,Used 2014 Volkswagen GTI Hatchback,"$12,050",25 MPG,3.7 ,4.6 
+1353,Used 2014 Acura TL Sedan,"$12,612",23 MPG,3.7 ,4.8 
+1354,Used 2014 Audi A4 Sedan,"$12,752",24 MPG,3.7 ,4.5 
+1355,Used 2014 Hyundai Santa Fe SUV,"$12,850",20 MPG,3.7 ,4.7 
+1356,Used 2014 Toyota Prius v Wagon,"$13,055",42 MPG,3.7 ,4.4 
+1357,Used 2015 BMW X1 SUV,"$13,288",27 MPG,3.7 ,4.5 
+1358,Certified 2017 Chrysler 200 Sedan,"$13,348",27 MPG,3.7 ,4.1 
+1359,Used 2016 Toyota Mirai Sedan,"$13,371",66 MPGe,3.7 ,2.3 
+1360,Used 2014 Toyota Tacoma Access Cab Pickup,"$13,400",17 MPG,3.7 ,4.7 
+1361,Certified 2015 Toyota Venza Wagon,"$13,750",22 MPG,3.7 ,4.6 
+1362,Used 2015 Kia Cadenza Sedan,"$13,794",22 MPG,3.7 ,4.4 
+1363,Used 2015 Audi A4 Sedan,"$14,064",25 MPG,3.7 ,4.5 
+1364,Certified 2015 Buick LaCrosse Sedan,"$14,295",29 MPG,3.7 ,4.5 
+1365,Certified 2017 Volkswagen Beetle Hatchback,"$14,800",28 MPG,3.7 ,4.3 
+1366,Used 2014 Buick Enclave SUV,"$14,850",19 MPG,3.7 ,4.5 
+1367,Certified 2017 Jeep Compass SUV,"$14,887",21 MPG,3.7 ,3.8 
+1368,Certified 2017 Dodge Grand Caravan Passenger Van/Minivan,"$15,008",20 MPG,3.7 ,3.8 
+1369,Certified 2018 Mitsubishi Eclipse Cross SUV,"$15,948",26 MPG,3.7 ,4.8 
+1370,Certified 2015 Toyota Prius v Wagon,"$16,078",42 MPG,3.7 ,4.4 
+1371,Used 2017 Toyota Mirai Sedan,"$16,240",67 MPGe,3.7 ,2.3 
+1372,Used 2015 Audi A6 Sedan,"$16,437",23 MPG,3.7 ,4.6 
+1373,Certified 2018 Dodge Grand Caravan Passenger Van/Minivan,"$16,466",20 MPG,3.7 ,3.8 
+1374,Used 2015 BMW X3 SUV,"$16,549",24 MPG,3.7 ,4.5 
+1375,Certified 2016 Kia Cadenza Sedan,"$16,635",22 MPG,3.7 ,4.4 
+1376,Used 2014 Nissan 370Z Coupe,"$17,522",21 MPG,3.7 ,4.8 
+1377,Certified 2018 Jeep Compass SUV,"$17,537",25 MPG,3.7 ,3.6 
+1378,Used 2014 Chevrolet Suburban 1500 SUV,"$18,130",17 MPG,3.7 ,4.5 
+1379,Certified 2015 INFINITI Q60 Coupe,"$18,463",22 MPG,3.7 ,4.7 
+1380,Certified 2017 Buick Envision SUV,"$19,238",24 MPG,3.7 ,4.6 
+1381,Certified 2017 Lincoln MKZ Sedan,"$19,341",23 MPG,3.7 ,4.6 
+1382,Certified 2015 Nissan 370Z Coupe,"$19,550",21 MPG,3.7 ,4.8 
+1383,Certified 2017 Dodge Charger Sedan,"$19,951",21 MPG,3.7 ,4.8 
+1384,Used 2014 Toyota Tacoma Double Cab Pickup,"$20,600",19 MPG,3.7 ,4.7 
+1385,Certified 2019 MINI Hardtop 2 Door Hatchback,"$20,675",30 MPG,3.7 ,4.7 
+1386,Certified 2019 MINI Hardtop 4 Door Hatchback,"$20,910",30 MPG,3.7 ,4.7 
+1387,Used 2014 Audi S4 Sedan,"$21,500",20 MPG,3.7 ,4.9 
+1388,Certified 2018 Ford Explorer SUV,"$22,050",19 MPG,3.7 ,4.2 
+1389,Used 2014 BMW Z4 Convertible,"$22,222",26 MPG,3.7 ,4.6 
+1390,Certified 2016 Land Rover Discovery Sport SUV,"$22,550",22 MPG,3.7 ,4.1 
+1391,Certified 2018 Dodge Charger Sedan,"$22,552",23 MPG,3.7 ,4.8 
+1392,Certified 2016 Audi allroad Wagon,"$22,609",24 MPG,3.7 ,4.1 
+1393,Certified 2017 Jaguar XF Sedan,"$22,672",23 MPG,3.7 ,4.7 
+1394,Certified 2018 Buick Envision SUV,"$23,073",24 MPG,3.7 ,4.6 
+1395,Certified 2015 Lexus GS Sedan,"$23,579",21 MPG,3.7 ,4.7 
+1396,Certified 2019 Dodge Charger Sedan,"$23,587",21 MPG,3.7 ,4.8 
+1397,Certified 2015 Audi TT Convertible,"$23,699",26 MPG,3.7 ,4.5 
+1398,Certified 2018 Lincoln MKZ Sedan,"$23,725",23 MPG,3.7 ,4.6 
+1399,Used 2015 Audi S4 Sedan,"$24,530",20 MPG,3.7 ,4.9 
+1400,Certified 2017 Land Rover Discovery Sport SUV,"$25,300",22 MPG,3.7 ,4.1 
+1401,Certified 2016 Mercedes‑Benz SLK Convertible,"$25,690",28 MPG,3.7 ,4.6 
+1402,Certified 2018 Jaguar XF Sedan,"$25,803",27 MPG,3.7 ,4.7 
+1403,Certified 2019 Lincoln MKZ Sedan,"$26,965",23 MPG,3.7 ,4.6 
+1404,Certified 2016 BMW X4 SUV,"$27,779",23 MPG,3.7 ,5 
+1405,Certified 2018 Toyota Tundra Double Cab Pickup,"$29,660",15 MPG,3.7 ,4.7 
+1406,Used 2015 Audi S6 Sedan,"$30,884",20 MPG,3.7 ,4.8 
+1407,Used 2014 Jaguar F‑TYPE Convertible,"$31,202",23 MPG,3.7 ,4.9 
+1408,Certified 2019 Toyota Tundra Double Cab Pickup,"$32,486",14 MPG,3.7 ,4.7 
+1409,Certified 2018 Land Rover Range Rover Evoque SUV,"$34,051",25 MPG,3.7 ,3.9 
+1410,Certified 2015 Jaguar F‑TYPE Coupe,"$34,343",23 MPG,3.7 ,4.9 
+1411,Certified 2019 Land Rover Range Rover Evoque SUV,"$35,442",25 MPG,3.7 ,3.9 
+1412,Certified 2017 Maserati Ghibli Sedan,"$36,663",19 MPG,3.7 ,4.3 
+1413,Certified 2018 Toyota Tundra CrewMax Pickup,"$38,024",14 MPG,3.7 ,4.7 
+1414,Certified 2018 Lexus GX SUV,"$39,100",16 MPG,3.7 ,4.4 
+1415,Certified 2019 Toyota Tundra CrewMax Pickup,"$41,292",14 MPG,3.7 ,4.7 
+1416,Used 2016 Alfa Romeo 4C Coupe,"$41,599",28 MPG,3.7 ,4.9 
+1417,Certified 2018 Maserati Ghibli Sedan,"$42,354",19 MPG,3.7 ,4.3 
+1418,Certified 2019 Lexus GX SUV,"$45,500",16 MPG,3.7 ,4.4 
+1419,Used 2017 Alfa Romeo 4C Coupe,"$45,890",28 MPG,3.7 ,4.9 
+1420,Used 2016 Nissan GT‑R Coupe,"$71,279",19 MPG,3.7 ,4.9 
+1421,Certified 2018 BMW M6 Coupe,"$71,300",16 MPG,3.7 ,5 
+1422,Used 2017 Nissan GT‑R Coupe,"$81,874",18 MPG,3.7 ,4.9 
+1423,New 2020 Jeep Compass SUV,"$23,775",25 MPG,3.6 ,3.6 
+1424,New 2020 Mitsubishi Eclipse Cross SUV,"$24,335",27 MPG,3.6 ,4.8 
+1425,New 2020 Buick Envision SUV,"$34,695",25 MPG,3.6 ,4.6 
+1426,New 2019 Volkswagen Beetle Hatchback,"$21,790",29 MPG,3.6 ,4.3 
+1427,New 2019 Mercedes‑Benz SLC Convertible,"$49,945",27 MPG,3.6 ,4.6 
+1428,New 2019 Mercedes‑Benz Mercedes‑AMG SLC Convertible,"$64,895",23 MPG,3.6 ,4.6 
+1429,Used 2014 Ford Fiesta Sedan,"$5,636",31 MPG,3.6 ,3.9 
+1430,Used 2014 Dodge Dart Sedan,"$7,600",32 MPG,3.6 ,4.2 
+1431,Used 2014 Volkswagen CC Sedan,"$9,684",25 MPG,3.6 ,4.5 
+1432,Used 2014 Chevrolet Equinox SUV,"$10,956",23 MPG,3.6 ,4.1 
+1433,Certified 2015 Scion xB Hatchback,"$11,583",24 MPG,3.6 ,4.7 
+1434,Certified 2015 Scion tC Coupe,"$11,835",26 MPG,3.6 ,4.5 
+1435,Certified 2015 Chevrolet Equinox SUV,"$11,876",26 MPG,3.6 ,4.1 
+1436,Certified 2015 Volkswagen CC Sedan,"$12,083",25 MPG,3.6 ,4.5 
+1437,Used 2016 Mitsubishi Outlander SUV,"$12,131",26 MPG,3.6 ,4.6 
+1438,Used 2015 Hyundai Azera Sedan,"$12,518",23 MPG,3.6 ,4.7 
+1439,Used 2014 Ford Explorer SUV,"$13,300",18 MPG,3.6 ,4.2 
+1440,Certified 2015 MAZDA CX‑9 SUV,"$13,650",18 MPG,3.6 ,4.7 
+1441,Certified 2016 Jeep Cherokee SUV,"$13,972",23 MPG,3.6 ,3.9 
+1442,Certified 2015 Chevrolet Volt Sedan,"$14,588",37 MPG | 98 MPGe,3.6 ,4.7 
+1443,Certified 2016 Buick LaCrosse Sedan,"$15,175",21 MPG,3.6 ,4.5 
+1444,Certified 2017 Jeep Cherokee SUV,"$15,178",17 MPG,3.6 ,3.9 
+1445,Certified 2016 Hyundai Azera Sedan,"$15,353",23 MPG,3.6 ,4.7 
+1446,Certified 2018 Volkswagen Beetle Hatchback,"$16,261",29 MPG,3.6 ,4.3 
+1447,Certified 2015 GMC Acadia SUV,"$16,369",19 MPG,3.6 ,4 
+1448,Certified 2015 Buick Enclave SUV,"$17,313",19 MPG,3.6 ,4.5 
+1449,Used 2014 Hyundai Equus Sedan,"$17,321",18 MPG,3.6 ,4.7 
+1450,Certified 2015 Nissan Titan King Cab Pickup,"$17,423",14 MPG,3.6 ,4.4 
+1451,Certified 2016 GMC Acadia SUV,"$18,200",18 MPG,3.6 ,4 
+1452,Certified 2019 Mitsubishi Eclipse Cross SUV,"$18,652",26 MPG,3.6 ,4.8 
+1453,Certified 2016 Cadillac SRX SUV,"$18,839",19 MPG,3.6 ,4.2 
+1454,Certified 2019 Dodge Grand Caravan Passenger Van/Minivan,"$19,667",20 MPG,3.6 ,3.8 
+1455,Used 2015 Hyundai Equus Sedan,"$19,846",18 MPG,3.6 ,4.7 
+1456,Certified 2019 Jeep Compass SUV,"$19,954",25 MPG,3.6 ,3.6 
+1457,Used 2014 Mercedes‑Benz GL‑Class SUV,"$20,200",16 MPG,3.6 ,4.6 
+1458,Certified 2015 Nissan Titan Crew Cab Pickup,"$21,902",14 MPG,3.6 ,4.6 
+1459,Certified 2015 BMW Z4 Convertible,"$24,457",26 MPG,3.6 ,4.6 
+1460,Certified 2019 Buick Envision SUV,"$25,975",24 MPG,3.6 ,4.6 
+1461,Used 2014 Land Rover Range Rover Sport SUV,"$27,351",19 MPG,3.6 ,4.4 
+1462,Used 2014 BMW X6 M SUV,"$27,393",15 MPG,3.6 ,4.8 
+1463,Certified 2018 Land Rover Discovery Sport SUV,"$27,700",22 MPG,3.6 ,4.1 
+1464,Certified 2016 BMW Z4 Convertible,"$28,188",26 MPG,3.6 ,4.6 
+1465,Certified 2017 BMW X4 SUV,"$30,827",23 MPG,3.6 ,5 
+1466,Certified 2019 Land Rover Discovery Sport SUV,"$33,000",22 MPG,3.6 ,4.1 
+1467,Certified 2018 Mercedes‑Benz SLC Convertible,"$33,150",27 MPG,3.6 ,4.6 
+1468,Certified 2016 Jaguar F‑TYPE Coupe,"$36,747",19 MPG,3.6 ,4.9 
+1469,Certified 2018 BMW X4 SUV,"$37,659",23 MPG,3.6 ,5 
+1470,Used 2018 Alfa Romeo 4C Spider Convertible,"$49,580",28 MPG,3.6 ,4.9 
+1471,Certified 2018 Mercedes‑Benz Mercedes‑AMG SLC Convertible,"$49,938",23 MPG,3.6 ,4.6 
+1472,Used 2019 Alfa Romeo 4C Spider Convertible,"$53,986",28 MPG,3.6 ,4.9 
+1473,New 2020 Toyota Yaris Sedan,"$16,605",34 MPG,3.5 ,4.5 
+1474,New 2020 Mitsubishi Outlander SUV,"$26,235",27 MPG,3.5 ,4.6 
+1475,New 2020 Jeep Cherokee SUV,"$27,235",23 MPG,3.5 ,3.9 
+1476,New 2020 Jaguar F‑TYPE Coupe,"$62,625",26 MPG,3.5 ,4.9 
+1477,New 2019 FIAT 500 Hatchback,"$17,740",27 MPG,3.5 ,4.4 
+1478,New 2019 FIAT 500c Convertible,"$19,485",27 MPG,3.5 ,4.4 
+1479,New 2019 FIAT 500 Abarth Hatchback,"$21,990",27 MPG,3.5 ,4.4 
+1480,New 2019 FIAT 500c Abarth Convertible,"$23,485",27 MPG,3.5 ,4.4 
+1481,New 2019 FIAT 500e Hatchback,"$34,705",112 MPGe,3.5 ,4.9 
+1482,Used 2014 Ford Focus Hatchback,"$6,669",105 MPGe,3.5 ,3.8 
+1483,Used 2014 Volkswagen Jetta Sedan,"$8,034",28 MPG,3.5 ,4.4 
+1484,Used 2014 MAZDA MAZDA5 Van/Minivan,"$8,201",24 MPG,3.5 ,4.3 
+1485,Used 2014 Nissan cube Wagon,"$8,409",27 MPG,3.5 ,4.7 
+1486,Used 2014 Volkswagen Jetta SportWagen Wagon,"$9,485",26 MPG,3.5 ,4.4 
+1487,Used 2014 Subaru Legacy Sedan,"$10,042",24 MPG,3.5 ,4.6 
+1488,Used 2015 Hyundai Veloster Coupe,"$10,150",30 MPG,3.5 ,4.1 
+1489,Certified 2016 Scion iA Sedan,"$10,410",35 MPG,3.5 ,4.4 
+1490,Certified 2014 Buick Regal Sedan,"$10,462",23 MPG,3.5 ,4.5 
+1491,Used 2014 Hyundai Tucson SUV,"$10,898",22 MPG,3.5 ,4.2 
+1492,Used 2014 MINI Countryman Hatchback,"$10,968",27 MPG,3.5 ,4.2 
+1493,Used 2014 Acura ILX Sedan,"$11,491",28 MPG,3.5 ,4.4 
+1494,Certified 2015 Honda CR‑Z Coupe,"$11,511",34 MPG,3.5 ,4.7 
+1495,Certified 2017 Toyota Yaris iA Sedan,"$11,765",34 MPG,3.5 ,4.5 
+1496,Certified 2015 MINI Paceman Hatchback,"$12,148",27 MPG,3.5 ,4.8 
+1497,Certified 2015 MINI Countryman Hatchback,"$12,654",27 MPG,3.5 ,4.2 
+1498,Certified 2018 FIAT 500 Hatchback,"$12,800",27 MPG,3.5 ,4.4 
+1499,Certified 2016 Scion tC Coupe,"$13,076",26 MPG,3.5 ,4.5 
+1500,Used 2013 Dodge Durango SUV,"$13,382",19 MPG,3.5 ,4.7 
+1501,Certified 2015 MINI Roadster Convertible,"$13,606",28 MPG,3.5 ,5 
+1502,Certified 2016 Volkswagen CC Sedan,"$13,612",25 MPG,3.5 ,4.5 
+1503,Certified 2018 FIAT 500e Hatchback,"$13,850",112 MPGe,3.5 ,4.9 
+1504,Certified 2016 Chevrolet Equinox SUV,"$14,033",26 MPG,3.5 ,4.1 
+1505,Used 2014 Cadillac SRX SUV,"$14,042",19 MPG,3.5 ,4.2 
+1506,Used 2014 Volvo XC60 SUV,"$14,381",20 MPG,3.5 ,4.4 
+1507,Certified 2019 Toyota Yaris Sedan,"$14,500",34 MPG,3.5 ,4.5 
+1508,Certified 2018 FIAT 500c Convertible,"$14,600",27 MPG,3.5 ,4.4 
+1509,Certified 2017 Mitsubishi Outlander SUV,"$14,711",26 MPG,3.5 ,4.6 
+1510,Used 2014 Dodge Durango SUV,"$15,300",19 MPG,3.5 ,4.7 
+1511,Certified 2015 MINI Convertible,"$15,307",29 MPG,3.5 ,4.7 
+1512,Certified 2017 Chevrolet Equinox SUV,"$15,398",25 MPG,3.5 ,4.1 
+1513,Used 2015 Hyundai Genesis Coupe,"$15,502",19 MPG,3.5 ,4.5 
+1514,Used 2015 Cadillac SRX SUV,"$15,702",19 MPG,3.5 ,4.2 
+1515,Certified 2018 Mitsubishi Outlander SUV,"$16,263",26 MPG,3.5 ,4.6 
+1516,Used 2014 Volvo XC70 Wagon,"$16,617",21 MPG,3.5 ,4.6 
+1517,Certified 2017 Hyundai Azera Sedan,"$16,912",23 MPG,3.5 ,4.7 
+1518,Certified 2018 FIAT 500 Abarth Hatchback,"$17,073",27 MPG,3.5 ,4.4 
+1519,Certified 2018 FIAT 500c Abarth Convertible,"$17,173",27 MPG,3.5 ,4.4 
+1520,Used 2015 Jaguar XF Sedan,"$17,587",23 MPG,3.5 ,4.6 
+1521,Certified 2019 Mitsubishi Outlander SUV,"$18,072",26 MPG,3.5 ,4.6 
+1522,Certified 2015 Volkswagen Touareg SUV,"$18,100",19 MPG,3.5 ,4.7 
+1523,Used 2015 Land Rover Range Rover Evoque SUV,"$18,980",24 MPG,3.5 ,3.9 
+1524,Certified 2015 INFINITI QX50 SUV,"$19,636",20 MPG,3.5 ,4.6 
+1525,Certified 2018 Jeep Cherokee SUV,"$19,715",17 MPG,3.5 ,3.9 
+1526,Used 2014 Lexus RX SUV,"$20,300",20 MPG,3.5 ,4.5 
+1527,Used 2014 Lincoln Navigator SUV,"$20,833",15 MPG,3.5 ,4.7 
+1528,Certified 2016 Volkswagen Touareg SUV,"$21,300",19 MPG,3.5 ,4.7 
+1529,Certified 2019 Jeep Cherokee SUV,"$22,826",23 MPG,3.5 ,3.9 
+1530,Certified 2016 Lincoln MKT SUV,"$23,150",18 MPG,3.5 ,4.6 
+1531,Certified 2015 Lexus RX SUV,"$24,093",20 MPG,3.5 ,4.5 
+1532,Certified 2017 Lincoln MKT SUV,"$24,100",19 MPG,3.5 ,4.6 
+1533,Certified 2016 Hyundai Equus Sedan,"$25,028",18 MPG,3.5 ,4.7 
+1534,Certified 2017 GMC Acadia Limited SUV,"$26,370",17 MPG,3.5 ,4 
+1535,Certified 2019 Mitsubishi Outlander PHEV SUV,"$26,999",25 MPG | 74 MPGe,3.5 ,4.6 
+1536,Certified 2015 Mercedes‑Benz GL‑Class SUV,"$27,400",22 MPG,3.5 ,4.6 
+1537,Used 2015 INFINITI QX80 SUV,"$28,679",16 MPG,3.5 ,4.2 
+1538,Used 2015 Land Rover Range Rover Sport SUV,"$29,800",19 MPG,3.5 ,4.4 
+1539,Certified 2016 Mercedes‑Benz GL‑Class SUV,"$32,800",22 MPG,3.5 ,4.6 
+1540,Certified 2016 INFINITI QX80 SUV,"$34,300",15 MPG,3.5 ,4.2 
+1541,Used 2015 Land Rover Range Rover SUV,"$34,650",19 MPG,3.5 ,3.8 
+1542,Certified 2016 Land Rover LR4 SUV,"$36,025",16 MPG,3.5 ,4.4 
+1543,Certified 2015 Mercedes‑Benz SL‑Class Convertible,"$38,275",23 MPG,3.5 ,4.6 
+1544,Used 2016 Land Rover Range Rover SUV,"$39,700",19 MPG,3.5 ,3.8 
+1545,Certified 2016 Mercedes‑Benz SL Convertible,"$41,009",23 MPG,3.5 ,4.6 
+1546,Certified 2019 Jaguar F‑TYPE Coupe,"$44,811",26 MPG,3.5 ,4.9 
+1547,Certified 2017 Mercedes‑Benz SL Convertible,"$55,723",23 MPG,3.5 ,4.6 
+1548,Certified 2017 Mercedes‑Benz Mercedes‑AMG SL Convertible,"$85,872",19 MPG,3.5 ,4.6 
+1549,New 2019 Lincoln MKT SUV,"$50,495",17 MPG,3.4 ,4.6 
+1550,New 2019 Mercedes‑Benz Mercedes‑AMG GLS SUV,"$127,145",15 MPG,3.4 ,4.6 
+1551,Certified 2014 MAZDA MAZDA2 Hatchback,"$7,550",30 MPG,3.4 ,4.3 
+1552,Used 2014 Hyundai Elantra Sedan,"$8,450",31 MPG,3.4 ,4.2 
+1553,Used 2014 Chevrolet Cruze Sedan,"$8,471",27 MPG,3.4 ,4.3 
+1554,Used 2015 Mitsubishi Lancer Sedan,"$8,692",28 MPG,3.4 ,4.5 
+1555,Used 2014 Nissan Rogue Select SUV,"$8,695",24 MPG,3.4 ,4.2 
+1556,Used 2014 Dodge Grand Caravan Passenger Van/Minivan,"$8,958",20 MPG,3.4 ,3.8 
+1557,Used 2014 Nissan JUKE SUV,"$9,295",27 MPG,3.4 ,4.4 
+1558,Certified 2015 MAZDA MAZDA5 Van/Minivan,"$9,386",24 MPG,3.4 ,4.3 
+1559,Certified 2014 Buick Verano Sedan,"$9,823",25 MPG,3.4 ,4.6 
+1560,Used 2014 Chrysler Town & Country Van/Minivan,"$10,371",20 MPG,3.4 ,3.9 
+1561,Certified 2015 Buick Verano Sedan,"$11,107",25 MPG,3.4 ,4.6 
+1562,Used 2014 MAZDA CX‑9 SUV,"$11,300",18 MPG,3.4 ,4.7 
+1563,Used 2014 Subaru Outback Wagon,"$11,975",24 MPG,3.4 ,4.4 
+1564,Certified 2015 MINI Coupe,"$12,356",30 MPG,3.4 ,4.5 
+1565,Certified 2016 Hyundai Veloster Coupe,"$12,630",30 MPG,3.4 ,4.1 
+1566,Certified 2018 Toyota Yaris iA Sedan,"$12,960",34 MPG,3.4 ,4.5 
+1567,Used 2014 Subaru XV Crosstrek SUV,"$13,154",26 MPG,3.4 ,4.4 
+1568,Certified 2015 Acura ILX Sedan,"$13,162",25 MPG,3.4 ,4.4 
+1569,Certified 2016 MINI Paceman Hatchback,"$13,353",27 MPG,3.4 ,4.8 
+1570,Certified 2017 Hyundai Veloster Coupe,"$13,368",30 MPG,3.4 ,4.1 
+1571,Certified 2015 GMC Terrain SUV,"$13,564",23 MPG,3.4 ,4 
+1572,Used 2015 Volvo XC60 SUV,"$13,644",21 MPG,3.4 ,4.4 
+1573,Used 2014 Lexus CT Hatchback,"$13,921",42 MPG,3.4 ,4.8 
+1574,Used 2014 Toyota RAV4 SUV,"$14,006",25 MPG,3.4 ,4.4 
+1575,Certified 2016 GMC Terrain SUV,"$14,560",26 MPG,3.4 ,4 
+1576,Certified 2015 Honda Crosstour SUV,"$14,827",23 MPG,3.4 ,4.8 
+1577,Certified 2017 GMC Terrain SUV,"$15,623",25 MPG,3.4 ,4 
+1578,Certified 2016 MINI Countryman SUV,"$15,636",27 MPG,3.4 ,4.2 
+1579,Used 2015 Cadillac XTS Sedan,"$15,873",21 MPG,3.4 ,4.5 
+1580,Used 2015 Volvo XC70 Wagon,"$16,441",27 MPG,3.4 ,4.6 
+1581,Used 2014 INFINITI QX70 SUV,"$17,567",18 MPG,3.4 ,4.6 
+1582,Certified 2016 Cadillac XTS Sedan,"$19,831",22 MPG,3.4 ,4.5 
+1583,Certified 2015 Mercedes‑Benz M‑Class SUV,"$21,389",20 MPG,3.4 ,4.6 
+1584,Used 2014 Toyota 4Runner SUV,"$22,500",18 MPG,3.4 ,4.6 
+1585,Used 2015 Lincoln Navigator SUV,"$26,678",17 MPG,3.4 ,4.7 
+1586,Certified 2015 Mitsubishi Lancer Evolution Sedan,"$27,213",19 MPG,3.4 ,4.5 
+1587,Certified 2017 Volkswagen Touareg SUV,"$27,700",19 MPG,3.4 ,4.7 
+1588,Used 2014 Toyota FJ Cruiser SUV,"$27,915",16 MPG,3.4 ,4.8 
+1589,Used 2015 Lincoln Navigator L SUV,"$28,249",16 MPG,3.4 ,4.7 
+1590,Certified 2018 Lincoln MKT SUV,"$28,700",19 MPG,3.4 ,4.6 
+1591,Used 2016 Lincoln Navigator L SUV,"$31,302",16 MPG,3.4 ,4.7 
+1592,Used 2016 Lincoln Navigator SUV,"$31,358",17 MPG,3.4 ,4.7 
+1593,Certified 2017 INFINITI QX80 SUV,"$39,439",15 MPG,3.4 ,4.2 
+1594,Certified 2017 Mercedes‑Benz GLS SUV,"$41,300",19 MPG,3.4 ,4.6 
+1595,Certified 2015 Toyota Land Cruiser SUV,"$46,950",15 MPG,3.4 ,4.6 
+1596,Certified 2017 Land Rover Range Rover SUV,"$49,000",19 MPG,3.4 ,3.8 
+1597,Certified 2019 Mercedes‑Benz GLS SUV,"$56,500",18 MPG,3.4 ,4.6 
+1598,Certified 2017 Mercedes‑Benz Mercedes‑AMG GLS SUV,"$70,900",14 MPG,3.4 ,4.6 
+1599,Used 2014 Hyundai Accent Sedan,"$7,477",31 MPG,3.3 ,4.4 
+1600,Certified 2017 FIAT 500e Hatchback,"$8,417",112 MPGe,3.3 ,4.9 
+1601,Used 2014 Mitsubishi Outlander Sport SUV,"$8,901",26 MPG,3.3 ,4.7 
+1602,Used 2016 Mitsubishi Lancer Sedan,"$9,054",25 MPG,3.3 ,4.5 
+1603,Used 2014 Buick Encore SUV,"$9,694",28 MPG,3.3 ,4.4 
+1604,Certified 2015 Nissan Rogue Select SUV,"$10,200",24 MPG,3.3 ,4.2 
+1605,Certified 2017 FIAT 500 Hatchback,"$10,328",29 MPG,3.3 ,4.4 
+1606,Used 2015 Mitsubishi Outlander Sport SUV,"$10,513",24 MPG,3.3 ,4.7 
+1607,Used 2014 Subaru Impreza Sedan,"$10,607",28 MPG,3.3 ,4.4 
+1608,Certified 2017 Mitsubishi Lancer Sedan,"$10,976",26 MPG,3.3 ,4.5 
+1609,Certified 2017 FIAT 500c Convertible,"$11,864",30 MPG,3.3 ,4.4 
+1610,Certified 2017 FIAT 500 Abarth Hatchback,"$14,018",27 MPG,3.3 ,4.4 
+1611,Certified 2017 FIAT 500c Abarth Convertible,"$14,461",27 MPG,3.3 ,4.4 
+1612,Used 2015 Lincoln MKS Sedan,"$15,703",21 MPG,3.3 ,4.6 
+1613,Certified 2015 Nissan Xterra SUV,"$16,250",17 MPG,3.3 ,4.5 
+1614,Certified 2015 Lexus CT Hatchback,"$17,724",42 MPG,3.3 ,4.8 
+1615,Used 2015 Dodge Durango SUV,"$18,000",19 MPG,3.3 ,4.7 
+1616,Certified 2015 Mercedes‑Benz GLK‑Class SUV,"$18,452",21 MPG,3.3 ,4.6 
+1617,Used 2014 Jeep Wrangler SUV,"$18,850",18 MPG,3.3 ,4.6 
+1618,Used 2015 INFINITI QX70 SUV,"$19,550",18 MPG,3.3 ,4.6 
+1619,Certified 2016 Dodge Durango SUV,"$22,000",21 MPG,3.3 ,4.7 
+1620,Certified 2017 Lincoln Navigator SUV,"$37,038",17 MPG,3.3 ,4.7 
+1621,Certified 2017 Lincoln Navigator L SUV,"$37,526",16 MPG,3.3 ,4.7 
+1622,Certified 2016 Toyota Land Cruiser SUV,"$55,477",15 MPG,3.3 ,4.6 
+1623,Certified 2017 Toyota Land Cruiser SUV,"$60,250",15 MPG,3.3 ,4.6 
+1624,New 2020 Dodge Durango SUV,"$31,990",21 MPG,3.2 ,4.7 
+1625,New 2020 Toyota Land Cruiser SUV,"$86,740",14 MPG,3.2 ,4.6 
+1626,Used 2014 FIAT 500L Hatchback,"$6,410",27 MPG,3.2 ,4.5 
+1627,Used 2014 Kia Rio Sedan,"$6,755",31 MPG,3.2 ,4.3 
+1628,Used 2014 Dodge Journey SUV,"$8,100",21 MPG,3.2 ,3.7 
+1629,Used 2014 Kia Sedona Van/Minivan,"$8,185",20 MPG,3.2 ,4.2 
+1630,Used 2014 Honda Insight Hatchback,"$9,200",42 MPG,3.2 ,4.4 
+1631,Used 2015 Buick Encore SUV,"$10,389",26 MPG,3.2 ,4.4 
+1632,Certified 2015 Ford Taurus Sedan,"$11,957",23 MPG,3.2 ,4.6 
+1633,Certified 2015 Volkswagen Tiguan SUV,"$12,139",23 MPG,3.2 ,4.3 
+1634,Used 2016 Mitsubishi Outlander Sport SUV,"$12,308",24 MPG,3.2 ,4.7 
+1635,Certified 2016 Ford Taurus Sedan,"$13,182",21 MPG,3.2 ,4.6 
+1636,Certified 2016 Volkswagen Tiguan SUV,"$13,339",23 MPG,3.2 ,4.3 
+1637,Certified 2017 Mitsubishi Outlander Sport SUV,"$13,825",25 MPG,3.2 ,4.7 
+1638,Used 2014 Nissan Titan King Cab Pickup,"$14,077",14 MPG,3.2 ,4.4 
+1639,Used 2015 Land Rover LR2 SUV,"$18,310",20 MPG,3.2 ,4.5 
+1640,Certified 2016 Lincoln MKS Sedan,"$19,475",19 MPG,3.2 ,4.6 
+1641,Used 2015 Jeep Wrangler SUV,"$19,650",18 MPG,3.2 ,4.6 
+1642,Certified 2017 Dodge Durango SUV,"$23,800",21 MPG,3.2 ,4.7 
+1643,Certified 2015 Toyota 4Runner SUV,"$24,650",18 MPG,3.2 ,4.6 
+1644,Certified 2018 Dodge Durango SUV,"$26,100",21 MPG,3.2 ,4.7 
+1645,Used 2014 Cadillac Escalade ESV SUV,"$27,141",14 MPG,3.2 ,4.3 
+1646,Certified 2016 Toyota 4Runner SUV,"$27,300",18 MPG,3.2 ,4.6 
+1647,Certified 2019 Dodge Durango SUV,"$29,000",21 MPG,3.2 ,4.7 
+1648,Certified 2018 Toyota Land Cruiser SUV,"$65,250",15 MPG,3.2 ,4.6 
+1649,Certified 2019 Toyota Land Cruiser SUV,"$72,557",15 MPG,3.2 ,4.6 
+1650,New 2020 Mitsubishi Outlander Sport SUV,"$23,935",27 MPG,3.1 ,4.7 
+1651,New 2019 Ford Taurus Sedan,"$28,895",21 MPG,3.1 ,4.6 
+1652,Used 2015 Mitsubishi Mirage Hatchback,"$5,881",37 MPG,3.1 ,4.8 
+1653,Certified 2016 smart fortwo electric drive Hatchback,"$6,375",107 MPGe,3.1 ,4.3 
+1654,Certified 2017 Mitsubishi Mirage G4 Sedan,"$7,338",35 MPG,3.1 ,4.4 
+1655,Certified 2017 Mitsubishi Mirage Hatchback,"$7,468",36 MPG,3.1 ,4.8 
+1656,Used 2012 Hyundai Santa Fe SUV,"$8,394",22 MPG,3.1 ,4.6 
+1657,Certified 2016 smart fortwo Hatchback,"$8,668",35 MPG,3.1 ,4.1 
+1658,Certified 2015 FIAT 500L Hatchback,"$8,860",27 MPG,3.1 ,4.5 
+1659,Certified 2016 FIAT 500L Hatchback,"$9,861",27 MPG,3.1 ,4.5 
+1660,Used 2015 Mitsubishi Outlander SUV,"$9,864",26 MPG,3.1 ,4.6 
+1661,Used 2015 Dodge Journey SUV,"$9,925",21 MPG,3.1 ,3.7 
+1662,Certified 2017 smart fortwo electric drive Hatchback,"$11,364",108 MPGe,3.1 ,5 
+1663,Certified 2017 smart fortwo Hatchback,"$11,384",35 MPG,3.1 ,4.1 
+1664,Certified 2017 smart fortwo electric drive cabrio Convertible,"$13,351",102 MPGe,3.1 ,5 
+1665,Used 2014 Subaru Tribeca SUV,"$13,600",18 MPG,3.1 ,4.5 
+1666,Certified 2017 smart fortwo cabrio Convertible,"$13,615",35 MPG,3.1 ,4.1 
+1667,Certified 2017 Volkswagen Tiguan SUV,"$14,486",22 MPG,3.1 ,4.3 
+1668,Certified 2017 Ford Taurus Sedan,"$14,777",21 MPG,3.1 ,4.6 
+1669,Certified 2018 Mitsubishi Outlander Sport SUV,"$15,235",25 MPG,3.1 ,4.7 
+1670,Certified 2018 Ford Taurus Sedan,"$15,803",21 MPG,3.1 ,4.6 
+1671,Certified 2015 Volkswagen Eos Convertible,"$15,837",25 MPG,3.1 ,4.5 
+1672,Certified 2018 Volkswagen Tiguan Limited SUV,"$16,292",23 MPG,3.1 ,4.3 
+1673,Certified 2019 Mitsubishi Outlander Sport SUV,"$16,899",25 MPG,3.1 ,4.7 
+1674,Certified 2015 Lexus GX SUV,"$28,500",17 MPG,3.1 ,4.4 
+1675,Certified 2017 Toyota 4Runner SUV,"$29,550",18 MPG,3.1 ,4.6 
+1676,Certified 2018 Toyota 4Runner SUV,"$31,850",18 MPG,3.1 ,4.6 
+1677,New 2020 Toyota 4Runner SUV,"$37,240",17 MPG,3 ,4.6 
+1678,New 2018 smart fortwo electric drive Hatchback,"$24,650",108 MPGe,3 ,5 
+1679,New 2018 smart fortwo electric drive cabrio Convertible,"$28,850",102 MPGe,3 ,5 
+1680,Certified 2018 Mitsubishi Mirage G4 Sedan,"$8,675",35 MPG,3 ,4.4 
+1681,Used 2014 Mitsubishi Outlander SUV,"$8,849",27 MPG,3 ,4.6 
+1682,Certified 2018 Mitsubishi Mirage Hatchback,"$10,648",39 MPG,3 ,4.8 
+1683,Certified 2019 Mitsubishi Mirage G4 Sedan,"$11,001",35 MPG,3 ,4.4 
+1684,Certified 2019 Mitsubishi Mirage Hatchback,"$11,037",36 MPG,3 ,4.8 
+1685,Certified 2017 FIAT 500L Hatchback,"$11,700",25 MPG,3 ,4.5 
+1686,Used 2014 Lincoln MKZ Sedan,"$12,091",21 MPG,3 ,4.6 
+1687,Certified 2016 Dodge Journey SUV,"$12,650",19 MPG,3 ,3.7 
+1688,Used 2015 Lincoln MKZ Sedan,"$12,982",21 MPG,3 ,4.6 
+1689,Certified 2018 FIAT 500L Hatchback,"$13,897",25 MPG,3 ,4.5 
+1690,Certified 2017 Dodge Journey SUV,"$14,050",19 MPG,3 ,3.7 
+1691,Certified 2017 Jeep Patriot SUV,"$14,105",21 MPG,3 ,4.3 
+1692,Used 2014 Lincoln MKX SUV,"$15,600",19 MPG,3 ,4.8 
+1693,Certified 2019 Toyota 4Runner SUV,"$32,589",18 MPG,3 ,4.6 
+1694,Certified 2014 Scion iQ Hatchback,"$8,065",37 MPG,2.9 ,4.5 
+1695,Certified 2019 FIAT 500L Hatchback,"$16,500",25 MPG,2.9 ,4.5 
+1696,Certified 2018 Dodge Journey SUV,"$16,600",19 MPG,2.9 ,3.7 
+1697,Used 2015 Lincoln MKX SUV,"$17,650",19 MPG,2.9 ,4.8 
+1698,Certified 2019 Dodge Journey SUV,"$18,800",19 MPG,2.9 ,3.7 
+1699,Used 2015 Land Rover LR4 SUV,"$26,800",16 MPG,2.9 ,4.4 
+1700,Certified 2015 Mercedes‑Benz G‑Class SUV,"$65,200",13 MPG,2.9 ,4.5 
+1701,Certified 2016 Mercedes‑Benz G‑Class SUV,"$73,300",13 MPG,2.9 ,4.5 
+1702,Certified 2014 Scion xD Hatchback,"$9,413",29 MPG,2.8 ,4.6 
+1703,Certified 2015 Scion iQ Hatchback,"$9,712",37 MPG,2.8 ,4.5 
+1704,Certified 2017 Mercedes‑Benz G‑Class SUV,"$80,400",13 MPG,2.8 ,4.5 
+1705,Certified 2017 Mercedes‑Benz Mercedes‑AMG G‑Class SUV,"$93,700",13 MPG,2.8 ,4.5 
+1706,Used 2014 Dodge Avenger Sedan,"$7,838",22 MPG,2.7 ,4.2 
+1707,Used 2014 Chrysler 200 Sedan,"$7,995",22 MPG,2.7 ,4.3 
+1708,Used 2014 Jeep Compass SUV,"$8,571",24 MPG,2.6 ,3.8 
+1709,Used 2014 Jeep Patriot SUV,"$9,839",21 MPG,2.6 ,4.3 
+1710,Used 2015 Jeep Patriot SUV,"$10,803",21 MPG,2.6 ,4.3 
+1711,Used 2015 Jeep Compass SUV,"$11,023",21 MPG,2.6 ,3.8 
+1712,Used 2014 Lincoln MKT SUV,"$15,331",18 MPG,2.6 ,4.6 
+1713,Used 2015 Lincoln MKT SUV,"$16,750",19 MPG,2.6 ,4.6 
+1714,Certified 2016 Mitsubishi i‑MiEV Hatchback,"$8,700",112 MPGe,2.5 ,4.7 
+1715,Certified 2016 Jeep Patriot SUV,"$12,369",21 MPG,2.5 ,4.3 
+1716,Certified 2016 Jeep Compass SUV,"$12,669",21 MPG,2.5 ,3.8 
+1717,Certified 2017 Mitsubishi i‑MiEV Hatchback,"$11,561",112 MPGe,2.4 ,4.7 
+1718,Used 2014 Mitsubishi Mirage Hatchback,"$4,845",37 MPG,2.2 ,4.8 
+1719,Certified 2015 smart fortwo electric drive Hatchback,"$6,019",107 MPGe,1.6 ,4.3 
+1720,Certified 2015 smart fortwo Hatchback,"$7,065",36 MPG,1.6 ,4.4 
