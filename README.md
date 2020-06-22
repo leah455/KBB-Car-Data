@@ -1,1 +1,5 @@
-# KBB-Car-Data
+# Kelly Blue Book Scrape and Regression
+
+Kelly Blue Book was scraped for data on cars that were manufactured between 2012 - 2020 and were being sold on the website. Data on the cars starting price, total combined mpg (city + highway), year manufactured, type (new, used, certified), category (convertible, coupe, hatchback, pickup, SUV, sedan, van/minivan, wagon), kelly blue book expert raing and consumer rating were all scraped using BeautifulSoup. Then a multi linear regression was done on the data to see what factors affect the starting price of a car. 
+
+The factors that were found to increase the starting price of a car were the expert rating, consumer rating, year manufactured, new cars, convertibles, coupes, hatchbacks, SUVs, sedans and wagons. The factors that decreased the starting price of a car were the total combined mpg, certified cars, used cars, pickups and vans/minivans. The score of the multi linear regression training set and testing set was around 0.4 - 0.5. This means that using all the factors in determining the starting price of the car does not have a strong correlation, but that does make sense considering there are many different factors that increase or decrease the price. 
