@@ -13,7 +13,7 @@ df = df.drop('Unnamed: 0', axis = 1)
 split = df['car'].str.split(' ')
 df['type'] = split.str.get(0)
 
-#Create column for the year the car was manufactured ad=nd save as an integer
+#Create column for the year the car was manufactured and save as an integer
 df['year'] = split.str.get(1).astype(int)
 
 #Create column for that contains the category of the car (SUV, Sedan, Coupe, Hatchback, Convertible, Van/Minivan, Wagon, Pickup)
@@ -22,7 +22,7 @@ df['category'] = split.str.get(-1)
 #Convert starting price from $ value into an integer
 df['starting_price'] = df['starting_price'].replace(r'[\$,]', '', regex = True).astype(int) 
 
-#Remove mpg from integer value and also remove cars that are electric/hybrids with a total combined mpg larger than 80 mpg
+#Remove mpg from integer value and also remove cars that are electric with a total combined mpg larger than 80 mpg
 mpg_split = df['combined_mpg'].str.split(' ')
 df['combined_mpg'] = mpg_split.str.get(0).astype(int)
 df = df[df.combined_mpg < 80]
@@ -69,5 +69,3 @@ print(regression.coef_)
 #Print the score of the training set vs the score of the testing test
 print(regression.score(x_train, y_train))
 print(regression.score(x_test, y_test))
-
-
